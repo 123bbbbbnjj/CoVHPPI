@@ -1,0 +1,15 @@
+DDI/ALLDomain_scores.txt filter=lfs diff=lfs merge=lfs -text
+S/HPPI_scores.txt filter=lfs diff=lfs merge=lfs -text
+final_predict/data/all_predict_ppi.txt filter=lfs diff=lfs merge=lfs -text
+IM/blast/all_seq.fasta filter=lfs diff=lfs merge=lfs -text
+ML/features/v_and_h_TC.pkl filter=lfs diff=lfs merge=lfs -text
+final_predict/data/final_predict_dataset.txt filter=lfs diff=lfs merge=lfs -text
+final_predict/five_method/CovH_rf_model.pkl filter=lfs diff=lfs merge=lfs -text
+final_predict/five_method/im_predict_pred.txt filter=lfs diff=lfs merge=lfs -text
+DMI/VHDMI_scores.txt filter=lfs diff=lfs merge=lfs -text
+final_predict/five_method/ddi_predict_pred.txt filter=lfs diff=lfs merge=lfs -text
+final_predict/five_method/s_predict_pred.txt filter=lfs diff=lfs merge=lfs -text
+DDI/hmmscan_result/Pfam-A.hmm.gz filter=lfs diff=lfs merge=lfs -text
+final_predict/five_method/ml_predict_pred.txt filter=lfs diff=lfs merge=lfs -text
+final_predict/preds/predict_pred.txt filter=lfs diff=lfs merge=lfs -text
+final_predict/five_method/dmi_predict_pred.txt filter=lfs diff=lfs merge=lfs -text
