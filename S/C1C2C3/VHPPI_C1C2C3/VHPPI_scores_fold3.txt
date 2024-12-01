@@ -1,0 +1,910 @@
+P0DTD1	2697049	Q3L8U1	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8ND90	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9NR56	9606	0.8	experiments:BioID,Two-hybrid;pmids:34597346,36217029;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD2	2697049	O43353	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P60880	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q01082	9606	0.76	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,34672947,36180527,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6PD62	9606	0.82	experiments:affinity chromatography technology,protein complementation assay;pmids:36217030,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P11413	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9Y6D9	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:36217029,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8N201	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9ULJ8	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P20336	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q86W92	9606	0.84	experiments:affinity chromatography technology,enzymatic study,Two-hybrid;pmids:33060197,33111431,36217029;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	O00187	9606	0.56	experiments:pull down;pmids:36100602;sources:biogrid;interaction_type:direct interaction
+P0DTC7	2697049	Q9HD20	9606	0.89	experiments:affinity chromatography technology,anti tagcoimmunoprecipitation,BioID,Two-hybrid;pmids:33845483,34597346,36217030,888800000104,888800000109;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96G04	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8WWH4	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9Y2U5	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P53350	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:36180527,888800001056;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UH90	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P07814	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P49753	9606	0.7	experiments:BioID;pmids:37704626,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9NX63	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:36180527,36217029;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q15417	9606	0.75	experiments:enzymatic study,Two-hybrid;pmids:33111431,36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q16543	9606	0.87	experiments:affinity chromatography technology,BioID,enzymatic study,protein complementation assay;pmids:33111431,34672954,34709727,36180527,888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9H0X9	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9Y3B9	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H9G7	9606	0.8	experiments:BioID,protein complementation assay;pmids:34709727,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6UN15	9606	0.85	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:34672954,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P05388	9606	0.74	experiments:affinity chromatography technology;pmids:33080218,33781803,38172120;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q15788	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8TCU4	9606	0.71	experiments:BioID;pmids:34672954,34709727,37704626,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P12270	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P02458	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P47928	9606	0.73	experiments:affinity chromatography technology;pmids:33080218,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9HAW4	9606	0.74	experiments:BioID,enzymatic study;pmids:34672947,34672954,888800000082,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q7Z4H9	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q05084	9606	0.7	experiments:BioID;pmids:34672954,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q9NSK0	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H5L6	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O43353	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14157	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32353859,33060197,36180527,36217030,37704626,888800000082,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q06190	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O60264	9606	0.8	experiments:BioID,protein complementation assay;pmids:34709727,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O95104	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q01167	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q6UXN9	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTC8	2697049	P08047	9606	0.73	experiments:affinity chromatography technology;pmids:37704626,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O00159	9606	0.87	experiments:affinity chromatography technology,BioID,enzymatic study,Two-hybrid;pmids:33111431,34709727,36217030,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UPN3	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P17066	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q9UN86	9606	0.9	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,anti tagcoimmunoprecipitation,BioID,far western blotting,imaging technique,filamentous phage display,protein complementation assay,pull down,tandem affinity purification,Two-hybrid;pmids:32353859,32838362,33060197,33495715,33781803,33845483,34029587,34232536,34578187,34597346,34634033,34709727,34780058,34799561,34845387,34901782,35211260,35211278,35337019,35652658,36217029,36217030,36560452,38172120,38245532,888800000082,888800000104,888800000168,888800000817,888800000956,888800000978;sources:biogrid,virhostnet;interaction_type:colocalization,direct interaction,physical association
+P0DTC9	2697049	P40429	9606	0.83	experiments:affinity chromatography technology,tandem affinity purification;pmids:33080218,34029587,34232536,38172120;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P07900	9606	0.87	experiments:affinity chromatography technology,BioID,enzymatic study,protein complementation assay;pmids:33111431,34709727,36180527,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q53GL7	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P51398	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9NXL9	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD2	2697049	Q8IZE3	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8IXM2	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P51617	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33333742,34687317;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O15482	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	Q53GS9	9606	0.67	experiments:affinity chromatography technology,enzymatic study,imaging technique;pmids:38158131;sources:biogrid;interaction_type:colocalization,direct interaction,physical association
+P0DTD1	2697049	O75369	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9GZR7	9606	0.82	experiments:affinity chromatography technology,protein complementation assay;pmids:888800000303,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+A0A663DJA2	2697049	Q9Y5P8	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14980	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,888800000303;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC3	2697049	Q8NBJ7	9606	0.89	experiments:affinity chromatography technology,affinity technology,anti tagcoimmunoprecipitation,Two-hybrid;pmids:32838362,33845483,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q16543	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8IYI8	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+A0A663DJA2	2697049	Q9C0D3	9606	0.88	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,pull down;pmids:32353859,33060197,33827988,35636250,35674692;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9NUQ3	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9BUF5	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34687317,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P17936	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P98077	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N9N5	9606	0.7	experiments:BioID;pmids:34672954,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q3KQU3	9606	0.73	experiments:affinity chromatography technology;pmids:36180527,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q92522	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	O75925	9606	0.52	experiments:enzymatic study;pmids:888800000639;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P62753	9606	0.87	experiments:affinity chromatography technology,tandem affinity purification,Two-hybrid;pmids:33781803,34232536,36217030,38172120,888800000168,888800000956;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9GZV5	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P11498	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,36095012;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8WTP8	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P46782	9606	0.81	experiments:affinity chromatography technology,BioID;pmids:33080218,34709727,36180527;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6KB66	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N684	9606	0.83	experiments:BioID,enzymatic study,Two-hybrid;pmids:33111431,34597346,36217029;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P42226	9606	0.83	experiments:affinity chromatography technology,Two-hybrid;pmids:33845483,36217030,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q08477	9606	0.63	experiments:Two-hybrid;pmids:21904596;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P12956	9606	0.85	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:34709727,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P13521	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14573	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:32838362,33111431,34672947,34709727,888800000104,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UHV2	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD2	2697049	P21817	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q13049	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:33060197,36217029;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q12830	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P62937	9606	0.79	experiments:affinity chromatography technology,pull down;pmids:34161778,34462738,36807437,38172120,888800000131;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8N697	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000104,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q10567	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P61006	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32353859,33060197,34709727,36217030,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9Y467	9606	0.8	experiments:BioID,Two-hybrid;pmids:36217030,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P26641	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33080218,33111431,34709727,888800000104,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9Y6W5	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	A0AUZ9	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9Y3P9	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96FN5	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P12268	9606	0.73	experiments:affinity chromatography technology;pmids:33080218,34780058;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q92538	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:36180527,888800000082,888800000104,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD2	2697049	O95810	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+K9N5R3	1335626	Q8N448	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P40424	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P10809	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34687317,34709727,36095012,888800000168;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9BY11	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q93008	9606	0.83	experiments:affinity chromatography technology,protein complementation assay;pmids:34687317,36180527,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+K9N643	1335626	O95071	9606	0.7	experiments:affinity chromatography technology,enzymatic study,pull down;pmids:35980206;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P48556	9606	0.7	experiments:BioID;pmids:33080218,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P14618	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,36217030,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8WWI1	9606	0.76	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,34709727,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P33316	9606	0.8	experiments:BioID,protein complementation assay;pmids:34709727,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q2M389	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32353859,33060197,34709727,36217030,888800000082,888800000303;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9Y2V7	9606	0.83	experiments:BioID,enzymatic study,Two-hybrid;pmids:33111431,36217029,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9NV64	9606	0.81	experiments:BioID,Two-hybrid;pmids:35337019,36217030,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q2M2I8	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q13263	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,36180527;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q13501	9606	0.88	experiments:affinity chromatography technology,BioID,enzymatic study,imaging technique,protein complementation assay;pmids:34996837,35654983,36180527,888800000082,888800000109,888800000833;sources:biogrid;interaction_type:colocalization,direct interaction,physical association
+P0DTC9	2697049	Q92830	9606	0.52	experiments:enzymatic study;pmids:33894414;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14532	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q6PKG0	9606	0.9	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,BioID,protein complementation assay,tandem affinity purification;pmids:32353859,33060197,34029587,34232536,34672954,36135776,36217030,38172120,888800000817,888800000956;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q7Z3Y8	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q99996	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32353859,33060197,36217029,36217030,888800000104,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+K9N7C7	1335626	P49642	9606	0.56	experiments:pull down;pmids:34719824;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q15554	9606	0.49	pmids:34232992;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P61758	9606	0.81	experiments:BioID,Two-hybrid;pmids:34597346,34709727,36217029,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P09601	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q6IQ22	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000104,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	A8MW99	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P45974	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	A6NFQ2	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+K9N5R3	1335626	Q9H8Y8	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q9UBU8	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H0G5	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34597346,36180527;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O14737	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+K9N5R3	1335626	Q07157	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N5T2	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC3	2697049	P07205	9606	0.86	experiments:affinity chromatography technology,affinity technology,Two-hybrid;pmids:32838362,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96EC8	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000104,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9Y2D5	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q93008	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:36217029,888800000956;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O95273	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	Q12923	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q9Y399	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14676	9606	0.74	experiments:BioID,enzymatic study;pmids:34672947,34672954,888800000168;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9Y4G2	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9Y6Q9	9606	0.84	experiments:affinity chromatography technology,BioID,pull down;pmids:36095012,37704626,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P18146	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P59998	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:34672947,34709727,35337019,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P12074	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q04446	9606	0.81	experiments:BioID,Two-hybrid;pmids:34597346,36217029,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q07869	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P61026	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:32353859,33060197,34709727,36180527,888800000082,888800000104,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9P225	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O95409	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q12873	9606	0.86	experiments:affinity chromatography technology,affinity technology,protein complementation assay;pmids:32838362,888800000833;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6IPM2	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P53618	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32838362,36217030,888800000082,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC4	2697049	Q9H8G2	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:33845483,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q4VCS5	9606	0.81	experiments:BioID,Two-hybrid;pmids:34709727,36217029,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q14254	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P59594	694009	P05787	9606	0.56	experiments:pull down;pmids:22915798;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P04075	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:34709727,36095012,36217030,888800000104,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC4	2697049	O60706	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q02218	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UMX0	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P48047	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32838362,34709727,36180527,36217030,888800000168,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9NZN5	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H257	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P20042	9606	0.89	experiments:affinity chromatography technology,affinity technology,BioID,Two-hybrid;pmids:32838362,34672954,34709727,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9NRL3	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UPT9	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9HCM1	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q13263	9606	0.67	experiments:affinity chromatography technology,enzymatic study,imaging technique;pmids:38172120;sources:biogrid;interaction_type:colocalization,direct interaction,physical association
+P0DTD1	2697049	P15880	9606	0.89	experiments:affinity chromatography technology,Biochemical,BioID,pull down,x-ray crystallography;pmids:32680882,32908316,33080218,34186245,34624207,35232816;sources:biogrid;interaction_type:association,colocalization,direct interaction,physical association
+P0DTC9	2697049	P05114	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTC8	2697049	O75438	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P31153	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9C040	9606	0.8	experiments:BioID,Two-hybrid;pmids:36217029,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q12789	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UPE1	9606	0.89	experiments:affinity chromatography technology,affinity technology,protein complementation assay,Two-hybrid;pmids:32838362,36217030,888800000833;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P23467	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96PM5	9606	0.86	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32838362,36217030,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P55072	9606	0.83	experiments:affinity chromatography technology,protein complementation assay;pmids:36180527,888800000833,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q14232	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32680882,32838362,34672954,35337019,36217030,36575184;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P11021	9606	0.81	experiments:affinity chromatography technology,BioID;pmids:33080218,33263384,33845483,36095012,36180527,888800000109,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9Y6H5	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O00443	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P15735	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9BZA8	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P31271	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UGU0	9606	0.7	experiments:BioID;pmids:34672954,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q14669	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q86VM9	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q13526	9606	0.66	experiments:pull down;pmids:35093569,36807437;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O95810	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P33991	9606	0.74	experiments:BioID,enzymatic study;pmids:34672947,34709727,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P60842	9606	0.74	experiments:affinity chromatography technology;pmids:33080218,38172120,888800000956;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P68431	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P05787	9606	0.82	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P58004	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9P0K7	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q2TAL8	9606	0.73	experiments:affinity chromatography technology;pmids:34687317,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q93009	9606	0.85	experiments:affinity chromatography technology,filamentous phage display,pull down;pmids:34799561,888800000817;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P57737	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,34672954,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9BXI2	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P59594	694009	P15311	9606	0.68	experiments:pull down,Two-hybrid;pmids:23185364;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9Y5K6	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96D71	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD2	2697049	Q16539	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	O75970	9606	0.49	pmids:36932261;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q5VWQ8	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000104,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9P2N7	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q92499	9606	0.88	experiments:affinity chromatography technology,BioID,pull down,tandem affinity purification;pmids:34232536,34597346,35652658,36982856,38172120,888800000956,888800000978;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96K21	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q5TC12	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC3	2697049	Q01518	9606	0.86	experiments:affinity chromatography technology,anti tagcoimmunoprecipitation,Two-hybrid;pmids:33845483,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q7Z3G6	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9NP87	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9BZJ6	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P35658	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:32353859,33060197,34672954,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9H0Q0	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC3	2697049	P09601	9606	0.89	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,Two-hybrid;pmids:32353859,32838362,33060197,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9NWV8	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96HC4	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34270554,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9Y4I5	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96F44	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8IWL3	9606	0.68	experiments:affinity chromatography technology,pull down;pmids:34083449;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96IK5	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q05086	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33060197,33111431;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P18206	9606	0.81	experiments:BioID,protein complementation assay;pmids:34672954,34709727,888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q04637	9606	0.66	experiments:Biochemical,enzymatic study;pmids:33111431,34672947,36998012;sources:biogrid;interaction_type:colocalization,direct interaction
+P0DTD1	2697049	P06396	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,34687317;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC3	2697049	Q14CM0	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8TDQ1	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q6U7Q0	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC6	2697049	Q9UHD9	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q15022	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC8	2697049	Q5BJH7	9606	0.59	experiments:imaging technique,pull down;pmids:36689483;sources:biogrid;interaction_type:colocalization,direct interaction
+P0DTD1	2697049	Q99959	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32353859,33060197,34709727,36217030,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8IVT5	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UKN5	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9C0H2	9606	0.83	experiments:affinity chromatography technology,Two-hybrid;pmids:33845483,36180527,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6IWH7	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	O43889	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P57740	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34159380,34672947,36180527,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P78362	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9NXH9	9606	0.88	experiments:affinity chromatography technology,enzymatic study,x-ray crystallography;pmids:32353859,33060197,888800000939,888800000940;sources:biogrid;interaction_type:association,direct interaction,physical association
+P0DTC7	2697049	Q9HAV4	9606	0.89	experiments:affinity chromatography technology,affinity technology,anti tagcoimmunoprecipitation,Two-hybrid;pmids:33845483,34709727,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P18887	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UHB9	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:34672954,36180527,888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9Y5P8	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8IZ21	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q6P3X8	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P61011	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:32353859,33060197,888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P51955	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P41567	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H8Y5	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14126	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P63104	9606	0.87	experiments:affinity chromatography technology,x-ray crystallography;pmids:35781025,38172120,888800000956;sources:biogrid;interaction_type:association,direct interaction,physical association
+P0DTD1	2697049	Q9BWH6	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:34672947,34687317,36180527,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q15776	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q6A163	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q13111	9606	0.81	experiments:BioID,protein complementation assay;pmids:34672954,888800000168,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9BY12	9606	0.7	experiments:BioID;pmids:37704626,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8N3C0	9606	0.89	experiments:affinity chromatography technology,affinity technology,BioID,Two-hybrid;pmids:32838362,36217030,888800000082;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P14625	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,36180527,888800000104,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9BSC4	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:32353859,33060197,888800000104,888800000303,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96RU7	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P16949	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+K9N5R3	1335626	Q86UL8	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H173	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O00418	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P42166	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34159380,34186245,34373319,36180527,888800000104,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+K9N5R3	1335626	Q12923	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14694	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P51674	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P59594	694009	P07306	9606	0.56	experiments:pull down;pmids:888800000220;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P02538	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P40227	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34687317,888800000082,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P09884	9606	0.85	experiments:affinity chromatography technology,BioID,pull down;pmids:32353859,33060197,34597346,34719824,888800000082,888800000104,888800000168;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8TAG9	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:34159380,36217029;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P33121	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P54727	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N448	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P30050	9606	0.81	experiments:affinity chromatography technology,BioID;pmids:33080218,36180527,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6NYC8	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q68EM7	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q07157	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34597346,34672954,34709727,36217030,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P35568	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O60437	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H6Z4	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96N21	9606	0.75	experiments:enzymatic study,Two-hybrid;pmids:33111431,36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9BVS5	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	Q07157	9606	0.7	experiments:imaging technique,pull down;pmids:33864728,34106957,35283834,888800000470;sources:biogrid;interaction_type:colocalization,direct interaction
+P0DTD1	2697049	Q9UBT2	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,34709727,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q14684	9606	0.83	experiments:affinity chromatography technology,tandem affinity purification;pmids:33080218,34232536,35652658,38172120;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96QE2	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UEW8	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O75534	9606	0.76	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,33989516,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q9UQ35	9606	0.73	experiments:affinity chromatography technology;pmids:33080218,888800000956;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P15291	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC3	2697049	O43889	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9NV70	9606	0.62	experiments:enzymatic study;pmids:33111431,37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	O15226	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:36217029,38172120;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q14315	9606	0.83	experiments:BioID,enzymatic study,protein complementation assay;pmids:33111431,34709727,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P33176	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P15822	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P61978	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,36180527,37704626,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC4	2697049	O75360	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O15264	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTD2	2697049	Q13200	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H444	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N7C3	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9HBT6	9606	0.52	experiments:enzymatic study;pmids:888800000527;sources:biogrid;interaction_type:direct interaction
+K9N4V7	1335626	O00187	9606	0.56	experiments:pull down;pmids:36100602;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8TAD7	9606	0.7	experiments:BioID;pmids:35337019,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	O95409	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q6DN90	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q15233	9606	0.76	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,33989516,36095012,36180527,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q86TI0	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC6	2697049	Q9NYU1	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q7Z589	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P26842	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8NHS4	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q15388	9606	0.62	experiments:imaging technique;pmids:33080218,34774773;sources:biogrid;interaction_type:colocalization,direct interaction
+P0DTD1	2697049	P38646	9606	0.76	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,34083449,36590901,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q9BSK4	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9BQ66	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P59594	694009	Q9NNX6	9606	0.66	experiments:pull down;pmids:15496474,888800000220;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96D03	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	P16615	9606	0.82	experiments:BioID,fluorescent resonance energy transfer;pmids:888800000104,888800000969;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q7Z3I7	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O00566	9606	0.83	experiments:affinity chromatography technology,Two-hybrid;pmids:32353859,33060197,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6ZUB0	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P41091	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:32680882,33111431,34270554,34709727,36180527,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P23497	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTC8	2697049	P02671	9606	0.89	experiments:affinity chromatography technology,anti tagcoimmunoprecipitation,BioID,Two-hybrid;pmids:33845483,35337019,36217030,888800000104;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q16553	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P30043	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,888800000082,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q13796	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P28331	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:32838362,33111431,34672954,34709727,35337019,36180527,888800000082,888800000104,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC4	2697049	Q09472	9606	0.52	experiments:enzymatic study;pmids:35716662;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9BXF3	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q13387	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q3KQV9	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q92974	9606	0.8	experiments:BioID,protein complementation assay;pmids:34672954,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q96SZ5	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O75360	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H5N1	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q7Z698	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q6PKG0	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,34672947,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q16204	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34597346;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O95707	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8WUF8	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P68371	9606	0.76	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,34687317,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8IVF2	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9NYV4	9606	0.89	experiments:affinity chromatography technology,affinity technology,BioID,protein complementation assay;pmids:32838362,34672954,888800000833;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9H6S0	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H9P5	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O75475	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000168,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P59633	227859	P05155	9606	0.71	experiments:luminescence based mammalian interactome mapping,Two-hybrid;pmids:22046132;sources:PHISTO,biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTC6	2697049	Q7Z3E2	9606	0.86	experiments:affinity chromatography technology,affinity technology,Two-hybrid;pmids:32838362,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+A0A663DJA2	2697049	P45880	9606	0.85	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:34709727,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q9UPG8	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UQ35	9606	0.63	experiments:enzymatic study;pmids:33111431,34672947,37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	P55196	9606	0.86	experiments:imaging technique,pull down,x-ray crystallography;pmids:33864728,35283834,888800000470;sources:biogrid;interaction_type:association,colocalization,direct interaction
+P0DTC4	2697049	O60603	9606	0.56	experiments:pull down;pmids:888800000449;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8IZE3	9606	0.81	experiments:BioID,Two-hybrid;pmids:888800000082,888800000104,888800000109,888800001056;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P02794	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC8	2697049	Q9ULG6	9606	0.81	experiments:affinity chromatography technology,BioID;pmids:36952345,37704626,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P50453	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P22607	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTC3	2697049	Q9Y673	9606	0.89	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,Two-hybrid;pmids:32353859,32838362,33060197,36217030,888800000817;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P11142	9606	0.87	experiments:affinity chromatography technology,BioID,enzymatic study,protein complementation assay;pmids:33111431,36095012,888800000082,888800000104,888800000833,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q9BUZ4	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UKM9	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,33989516,34597346,34672954,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96H20	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9GZZ9	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q93052	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,34597346,34672954,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9ULC3	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000109,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+K9N5R3	1335626	Q14CM0	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P20585	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q02833	9606	0.8	experiments:BioID,Two-hybrid;pmids:36217030,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P11802	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:32838362,888800001056;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96P56	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O75683	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC3	2697049	P34897	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O14544	9606	0.7	experiments:BioID;pmids:37704626,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8IXW5	9606	0.81	experiments:BioID,protein complementation assay;pmids:34597346,34672954,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q14693	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q9NR30	9606	0.9	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,protein complementation assay,tandem affinity purification;pmids:32353859,33060197,34029587,34232536,35107372,35652658,36135776,38172120,888800000168,888800000978;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q12840	9606	0.73	experiments:affinity chromatography technology;pmids:36180527,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9P0M6	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32838362,36217029,888800000109,888800000168;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P46013	9606	0.81	experiments:affinity chromatography technology,BioID;pmids:34186245,34709727,37704626,888800000303;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6PL18	9606	0.52	experiments:enzymatic study;pmids:34672947;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9NVN8	9606	0.81	experiments:BioID,protein complementation assay;pmids:34672954,888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8WVV9	9606	0.83	experiments:affinity chromatography technology,BioID,pull down;pmids:34159380,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9H9L4	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O00470	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8TE12	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H9J4	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+K9N5R3	1335626	P49796	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P59594	694009	P35247	9606	0.66	experiments:pull down;pmids:17412287,34011150;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UKT9	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q70CQ2	9606	0.81	experiments:BioID,protein complementation assay;pmids:34672954,888800000104,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O94973	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32353859,33060197,34709727,34845387,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q13177	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q86V15	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UGI0	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P24941	9606	0.88	experiments:affinity chromatography technology,BioID,enzymatic study,imaging technique,Two-hybrid;pmids:34709727,36575184,888800001056;sources:biogrid;interaction_type:colocalization,direct interaction,physical association
+P0DTD1	2697049	Q8IX07	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+K9N4V7	1335626	Q9UN86	9606	0.78	experiments:pull down,tandem affinity purification;pmids:34232536,34799561;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q03252	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,888800000104,888800000303;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P10412	9606	0.83	experiments:affinity chromatography technology,tandem affinity purification;pmids:33080218,34232536,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8NDH3	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9Y478	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q5JR59	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q15858	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q76L83	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q7Z6J0	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8WW24	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9NQW6	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UBB9	9606	0.8	experiments:BioID,protein complementation assay;pmids:34672954,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O75676	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P63220	9606	0.71	experiments:BioID;pmids:33080218,34597346,34672954,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q15717	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,33989516,34709727,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O00193	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P78316	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:35337019,888800000082,888800000303,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC4	2697049	P12268	9606	0.72	experiments:affinity chromatography technology,Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD2	2697049	Q9HBJ7	9606	0.65	experiments:affinity chromatography technology,enzymatic study;pmids:35638730;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P35241	9606	0.89	experiments:affinity chromatography technology,BioID,filamentous phage display,pull down,Two-hybrid;pmids:32353859,33060197,34709727,34799561,36217030,888800000817;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8IY18	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O95786	9606	0.85	experiments:affinity chromatography technology,BioID,enzymatic study,pull down;pmids:33024073,34544279,35075101,36755358,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9C0C2	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,888800000168;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q92529	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P09327	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8TEY7	9606	0.71	experiments:BioID;pmids:34672954,37704626,888800000104,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8IYM9	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P02765	9606	0.68	experiments:pull down,Two-hybrid;pmids:21904596;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96NX5	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P61247	9606	0.81	experiments:affinity chromatography technology,BioID;pmids:33080218,33989516,36180527,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q86YV0	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P11940	9606	0.9	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,protein complementation assay,tandem affinity purification,Two-hybrid;pmids:32353859,33060197,34029587,34232536,34845387,35652658,36135776,36217030,38172120,888800000817,888800000956;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6UWL6	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P78362	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:34578187,888800000101,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O00233	9606	0.82	experiments:affinity chromatography technology,protein complementation assay;pmids:34687317,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96EY5	9606	0.76	experiments:BioID,pull down;pmids:37704626,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC4	2697049	Q6P0Q8	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8IWZ3	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,37704626,888800000082,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9H307	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P78509	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q16539	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P15423	11137	P15144	9606	0.49	pmids:1610791;sources:PDB
+P0DTD1	2697049	Q5T7V8	9606	0.71	experiments:BioID;pmids:37704626,888800000082,888800000104,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P00734	9606	0.52	experiments:enzymatic study;pmids:888800000527;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q92802	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q6ZSZ5	9606	0.8	experiments:BioID,protein complementation assay;pmids:34672954,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q5SW79	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34186245,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD2	2697049	Q9UHD2	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33913550,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q13363	9606	0.73	experiments:BioID,enzymatic study;pmids:33333742,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8NGD5	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P10071	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P47756	9606	0.81	experiments:BioID,Two-hybrid;pmids:34597346,34709727,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q5VTR2	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+Q7TFA0	227859	P46379	9606	0.71	experiments:luminescence based mammalian interactome mapping,Two-hybrid;pmids:22046132;sources:PHISTO,biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTC6	2697049	P16591	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTC6	2697049	Q9UMX0	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O95822	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P84243	9606	0.74	experiments:affinity chromatography technology;pmids:33080218,36180527,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC7	2697049	Q6YHU6	9606	0.86	experiments:affinity chromatography technology,anti tagcoimmunoprecipitation,Two-hybrid;pmids:33845483,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q15149	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,36217030,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9Y2V2	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P53350	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96PK6	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:34597346,34709727,36095012,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q9Y478	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P31943	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P07437	9606	0.76	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,34687317,36095012,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9NYF8	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96I24	9606	0.74	experiments:affinity chromatography technology;pmids:33080218,33989516,36095012;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8N614	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O14976	9606	0.83	experiments:BioID,enzymatic study,protein complementation assay;pmids:33111431,34672954,888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8WWN8	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q8IWE5	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P78344	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:34597346,34672947,36217030,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q86XT4	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14257	9606	0.83	experiments:affinity chromatography technology,Two-hybrid;pmids:34687317,34709727,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q02535	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	P15311	9606	0.56	experiments:pull down;pmids:34799561;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q13546	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32353859,33060197,34663909,36217030,888800000082,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9H252	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC3	2697049	Q96HE7	9606	0.89	experiments:affinity chromatography technology,affinity technology,BioID,Two-hybrid;pmids:32838362,36217030,888800000082,888800000104;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P27348	9606	0.66	experiments:pull down;pmids:33080218,36807437;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N398	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q04724	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:32353859,33060197,34672954,34709727,888800000082,888800000817,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P63244	9606	0.81	experiments:affinity chromatography technology,BioID;pmids:33080218,34624207,34709727,36180527,36575184;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD2	2697049	Q7KZI7	9606	0.9	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,BioID,Two-hybrid;pmids:32353859,33060197,34597346,34672954,34709727,888800000082,888800000104,888800000109,888800000817,888800001056;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P26599	9606	0.76	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,33989516,34672947,36180527;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96GD4	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q92831	9606	0.52	experiments:enzymatic study;pmids:33894414;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P25398	9606	0.81	experiments:affinity chromatography technology,BioID;pmids:33080218,34687317,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q14653	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33372854,36173315;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P19623	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9BYV2	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P14314	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96AE4	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O60936	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P59636	694009	O94826	9606	0.86	experiments:affinity chromatography technology,affinity technology,imaging technique,pull down;pmids:32728199,33060197,33845483;sources:biogrid,virhostnet;interaction_type:colocalization,direct interaction,physical association
+P0DTD1	2697049	Q8ND82	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N8S7	9606	0.7	experiments:BioID;pmids:34597346,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q70EL1	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32353859,33060197,34672954,34845387,36217030,888800000082,888800000104,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC4	2697049	Q8N448	9606	0.86	experiments:imaging technique,pull down,x-ray crystallography;pmids:33864728,35283834,888800000470;sources:biogrid;interaction_type:association,colocalization,direct interaction
+P0DTC4	2697049	P61165	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q86Y13	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P61289	9606	0.65	experiments:affinity chromatography technology,enzymatic study;pmids:32703419;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P35580	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34687317,34709727,888800000082,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P59594	694009	O00303	9606	0.68	experiments:affinity chromatography technology,pull down;pmids:18231581;sources:biogrid;interaction_type:direct interaction,physical association
+K9N5R3	1335626	Q9P2F8	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q05519	9606	0.75	experiments:enzymatic study,protein complementation assay;pmids:33111431,888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q92574	9606	0.81	experiments:BioID,protein complementation assay;pmids:34672954,888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UBP0	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O60664	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P50416	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000104,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q93009	9606	0.87	experiments:affinity chromatography technology,BioID,filamentous phage display,pull down;pmids:34799561,888800000082;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9H5P4	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9P0V9	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P52954	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O75122	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:34672954,888800000082,888800000817,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UKD2	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	Q8TEW0	9606	0.7	experiments:imaging technique,pull down;pmids:33864728,35283834,888800000470;sources:biogrid;interaction_type:colocalization,direct interaction
+K9N5R3	1335626	O75970	9606	0.49	pmids:36932261;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14847	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34597346;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q99459	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,34597346,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9BTC0	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	O60941	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q02833	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q5VU43	9606	0.83	experiments:affinity chromatography technology,Two-hybrid;pmids:32353859,33060197,36217030,37704626,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96CK0	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q6ZRS2	9606	0.73	experiments:affinity chromatography technology;pmids:33080218,36560452;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96EK5	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTC3	2697049	Q8TEW8	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q03001	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,37704626,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P20700	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:34709727,36180527,36217030,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q5JTZ9	9606	0.62	experiments:enzymatic study;pmids:33111431,37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	A4UGR9	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P59636	227859	P27448	9606	0.87	experiments:affinity chromatography technology,affinity technology,luminescence based mammalian interactome mapping,Two-hybrid;pmids:22046132,33060197;sources:PHISTO,biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P11217	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9P2P1	9606	0.76	experiments:BioID,pull down;pmids:37704626,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O00560	9606	0.86	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:34597346,36217030,36575184;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P21281	9606	0.68	experiments:affinity chromatography technology,pull down;pmids:34159380;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P49841	9606	0.87	experiments:affinity chromatography technology,BioID,enzymatic study,tandem affinity purification;pmids:33248025,33259812,34232536,34709727,35211260,36572560,888800000082,888800000104,888800000168;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9ULM0	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96KR1	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34597346,888800000303;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UGY1	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC8	2697049	Q12797	9606	0.86	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:34597346,36217030,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD2	2697049	Q12788	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P78563	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UK32	9606	0.7	experiments:BioID;pmids:37704626,888800000168;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P50579	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9H6U6	9606	0.7	experiments:BioID;pmids:34709727,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9P2E9	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34672954,34709727,36180527,888800000082,888800000104,888800000109,888800000303;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q9H7S9	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P41252	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,36180527;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q16555	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,34597346,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8N7H5	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q76I76	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+K9N4V7	1335626	Q13283	9606	0.78	experiments:pull down,tandem affinity purification;pmids:34232536,34799561;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9H361	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P49137	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q15633	9606	0.86	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:34578187,36217029,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q99081	9606	0.83	experiments:affinity chromatography technology,Two-hybrid;pmids:32353859,33060197,36217030,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q04760	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q15052	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8TD19	9606	0.79	experiments:affinity chromatography technology,pull down;pmids:32353859,33060197,33845483,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P84243	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+K9N7C7	1335626	P09884	9606	0.56	experiments:pull down;pmids:34719824;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q9HC36	9606	0.89	experiments:affinity chromatography technology,affinity technology,tandem affinity purification,Two-hybrid;pmids:32838362,34029587,34232536,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q8WU39	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P30279	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	O95786	9606	0.79	experiments:affinity chromatography technology,pull down;pmids:33396605,33801464,34471099,35075101;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q13428	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P0C0S5	9606	0.73	experiments:affinity chromatography technology;pmids:33080218,38172120;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9P289	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC8	2697049	Q9BWH6	9606	0.86	experiments:affinity chromatography technology,affinity technology,Two-hybrid;pmids:32838362,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+K9N5R3	1335626	Q92743	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q13283	9606	0.9	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,anti tagcoimmunoprecipitation,BioID,far western blotting,imaging technique,filamentous phage display,protein complementation assay,pull down,tandem affinity purification,Two-hybrid,x-ray crystallography;pmids:32353859,32838362,33060197,33495715,33781803,33845483,34029587,34232536,34578187,34597346,34634033,34709727,34780058,34799561,34845387,34901782,35075101,35211260,35211278,35240128,35652658,36217029,36217030,37192911,38172120,38245532,888800000082,888800000104,888800000168,888800000817,888800000956,888800000978;sources:biogrid,virhostnet;interaction_type:association,colocalization,direct interaction,physical association
+P0DTD1	2697049	Q5UIP0	9606	0.85	experiments:affinity chromatography technology,protein complementation assay,pull down;pmids:36180527,37704626,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q92599	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9P202	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N5G2	9606	0.81	experiments:affinity chromatography technology,BioID;pmids:34672954,35337019,36180527,37704626,888800000104,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P15622	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:33845483,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+K9N5R3	1335626	Q96NW7	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q16572	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9Y5A7	9606	0.7	experiments:BioID;pmids:34672954,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8WXK4	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14BN4	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P49748	9606	0.82	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC4	2697049	O00560	9606	0.76	experiments:BioID,pull down;pmids:34709727,36298757;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTC8	2697049	Q13501	9606	0.85	experiments:affinity chromatography technology,BioID,imaging technique,pull down;pmids:36217030,36952345,888800000082;sources:biogrid;interaction_type:colocalization,direct interaction,physical association
+P59594	694009	P09958	9606	0.52	experiments:enzymatic study;pmids:888800000013;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P35221	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q15046	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UN86	9606	0.78	experiments:affinity chromatography technology,pull down;pmids:33989516,34799561;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P17568	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:36180527,36217029;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q13523	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC8	2697049	Q9UHI8	9606	0.89	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,Two-hybrid;pmids:32353859,33060197,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P59046	9606	0.52	experiments:enzymatic study;pmids:33372854;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O60925	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O15440	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q15075	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q5QNW6	9606	0.73	experiments:affinity chromatography technology;pmids:33080218,36560452;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P49796	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14966	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q08378	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:32353859,33060197,33111431,34709727,36180527,888800000082,888800000109,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P49411	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34687317,34709727,36180527,888800000104,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q14789	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:32353859,33060197,33111431,34709727,888800000082,888800000109,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P38646	9606	0.83	experiments:affinity chromatography technology,anti tagcoimmunoprecipitation;pmids:33080218,33845483,35652658,38172120,888800000978;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q15797	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N196	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P13639	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:33080218,34709727,36180527,36590901,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q92796	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P53396	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:32838362,33111431,34709727,36180527,888800000104,888800000303;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O75348	9606	0.7	experiments:BioID;pmids:33080218,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UK59	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8WTV0	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32353859,33060197,36217030,888800000104,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96JN8	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q08426	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q71DI3	9606	0.74	experiments:affinity chromatography technology;pmids:33080218,38172120,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+K9N7C7	1263720	P0CG47	9606	0.49	pmids:1610791;sources:PDB
+P0DTD1	2697049	O15226	9606	0.84	experiments:affinity chromatography technology,BioID,pull down;pmids:32838362,35232816,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9C0J8	9606	0.73	experiments:BioID,enzymatic study;pmids:34672947,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6Y7W6	9606	0.85	experiments:affinity chromatography technology,BioID,imaging technique,pull down;pmids:32353859,32838362,33060197,34709727,35878012,888800000082,888800000303,888800000525,888800000553,888800000884;sources:biogrid;interaction_type:colocalization,direct interaction,physical association
+P0DTD1	2697049	Q6ZNC8	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+K9N7C7	1335626	P05161	9606	0.85	experiments:enzymatic study,pull down,x-ray crystallography;pmids:28931677,31765674;sources:biogrid;interaction_type:association,direct interaction
+P0DTD1	2697049	P55285	9606	0.52	experiments:enzymatic study;pmids:888800000527;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P49427	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC8	2697049	O60290	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8NBJ7	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+K9N5R3	1335626	Q5T5U3	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q96SB4	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:34029587,888800000101;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9BRK4	9606	0.8	experiments:BioID,Two-hybrid;pmids:36217030,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC3	2697049	Q92545	9606	0.89	experiments:affinity chromatography technology,affinity technology,BioID,Two-hybrid;pmids:32838362,36217030,888800000104;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P43243	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,33989516,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O43526	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P43361	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q03135	9606	0.83	experiments:affinity chromatography technology,Two-hybrid;pmids:33845483,36180527,36217030,888800000168;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q92905	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q13283	9606	0.85	experiments:affinity chromatography technology,BioID,pull down;pmids:33989516,34597346,34799561,35075101,36095012,37192911,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P12268	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:32353859,33060197,34709727,36095012,36177032,36180527,36217030,888800000310,888800000817,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q86SM5	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9Y4B6	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:32838362,33111431;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9H2P0	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P46937	9606	0.74	experiments:BioID,enzymatic study;pmids:34597346,34672947,34672954,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q07866	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96L34	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14181	9606	0.88	experiments:affinity chromatography technology,BioID,pull down,Two-hybrid;pmids:32353859,33060197,34719824,36217030,888800000082,888800000168;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	O14908	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P52272	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:33989516,34709727,36180527,888800000833,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O14981	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:34672947,35337019,36180527;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6PIV2	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC8	2697049	Q9H6L5	9606	0.84	experiments:affinity chromatography technology,BioID,imaging technique,pull down;pmids:36952345,888800000109;sources:biogrid;interaction_type:colocalization,direct interaction,physical association
+P0DTD1	2697049	Q6P587	9606	0.8	experiments:BioID,Two-hybrid;pmids:34709727,36217029;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q99684	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9P2P6	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q86WP2	9606	0.81	experiments:BioID,Two-hybrid;pmids:36217030,888800000082,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC3	2697049	P35609	9606	0.86	experiments:affinity chromatography technology,affinity technology,Two-hybrid;pmids:32838362,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q5W5X9	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96T37	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,34672947,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q13838	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD3	2697049	O75381	9606	0.56	experiments:pull down;pmids:34010015;sources:biogrid;interaction_type:direct interaction
+P0DTC6	2697049	P78406	9606	0.9	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,BioID,Two-hybrid,x-ray crystallography;pmids:32353859,32838362,33060197,33360543,33766124,33849972,34597346,34709727,35096974,35970938,36007063,36217030,888800000082,888800000104,888800000109,888800000817,888800000819;sources:biogrid,virhostnet;interaction_type:association,direct interaction,physical association
+P0DTD1	2697049	O14921	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96KQ7	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q15424	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+K9N7C7	1335626	Q14181	9606	0.56	experiments:pull down;pmids:34719824;sources:biogrid;interaction_type:direct interaction
+P59633	227859	P02768	9606	0.71	experiments:luminescence based mammalian interactome mapping,Two-hybrid;pmids:22046132;sources:PHISTO,biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9BZA7	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O43615	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,34672954,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC6	2697049	Q96HR9	9606	0.73	experiments:Two-hybrid;pmids:36217029,36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P10636	9606	0.73	experiments:BioID,enzymatic study;pmids:34597346,888800000942;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P22234	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34597346;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O15511	9606	0.8	experiments:BioID,protein complementation assay;pmids:34709727,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P11308	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q96KR1	9606	0.82	experiments:affinity chromatography technology,affinity technology;pmids:32838362,33080218;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P52306	9606	0.88	experiments:affinity chromatography technology,BioID,pull down,Two-hybrid;pmids:32353859,32838362,33060197,33845483,34159380,34373319,34709727,36217030,888800000082,888800000104,888800000303;sources:biogrid;interaction_type:direct interaction,physical association
+K9N5R3	1335626	Q8NI35	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O43314	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P15311	9606	0.87	experiments:affinity chromatography technology,BioID,filamentous phage display,pull down;pmids:34709727,34799561;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P49642	9606	0.79	experiments:affinity chromatography technology,pull down;pmids:32353859,33060197,34719824,888800000168;sources:biogrid;interaction_type:direct interaction,physical association
+K9N5R3	1335626	Q96RT1	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	O15118	9606	0.68	experiments:affinity chromatography technology,pull down;pmids:34450201;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P50549	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P35249	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q14031	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q0VDF9	9606	0.7	experiments:BioID;pmids:35337019,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD2	2697049	Q13555	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P22314	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P11142	9606	0.74	experiments:affinity chromatography technology;pmids:33080218,34029587,34634033,36560452,38172120,888800000978;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q14134	9606	0.72	experiments:affinity chromatography technology,Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O14647	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9BW85	9606	0.8	experiments:BioID,protein complementation assay;pmids:34597346,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P59594	694009	P63261	9606	0.56	experiments:pull down;pmids:22915798;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P54577	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,36180527;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q6P2Q9	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD2	2697049	O94826	9606	0.9	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,anti tagcoimmunoprecipitation,Biochemical,BioID,imaging technique,pull down,tandem affinity purification,x-ray crystallography;pmids:32353859,32728199,33060197,33845483,33990585,34232536,34709727,35337019,35643212,36071039,36217030,36576175,37682539,888800000082,888800000104,888800000109,888800000168,888800000329,888800000827;sources:biogrid,virhostnet;interaction_type:association,colocalization,direct interaction,physical association
+P0DTD1	2697049	P25490	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9NXX6	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+K9N7C7	1335626	P49427	9606	0.52	experiments:enzymatic study;pmids:25764917;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q12851	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q86Y26	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O00214	9606	0.63	experiments:enzymatic study;pmids:34672947,37122453,888800000877;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P16220	9606	0.62	experiments:enzymatic study;pmids:33111431,34672947;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UDV7	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+Q7TFA1	227859	P05155	9606	0.71	experiments:luminescence based mammalian interactome mapping,Two-hybrid;pmids:22046132;sources:PHISTO,biogrid,virhostnet;interaction_type:direct interaction,physical association
+P59596	694009	P04439	9606	0.49	pmids:1610791;sources:PDB
+P0DTD1	2697049	Q15042	9606	0.81	experiments:BioID,protein complementation assay;pmids:34709727,888800000104,888800000109,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P23443	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P30273	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q15596	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q8TF65	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96AQ6	9606	0.83	experiments:BioID,enzymatic study,Two-hybrid;pmids:33111431,36217029,888800000104,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC4	2697049	Q8N3I7	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P37198	9606	0.87	experiments:affinity chromatography technology,BioID,imaging technique,protein complementation assay;pmids:32353859,33060197,34597346,34844119,888800000833;sources:biogrid;interaction_type:colocalization,direct interaction,physical association
+P0DTD1	2697049	Q96T23	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N0S2	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P08621	9606	0.86	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:34709727,36180527,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P67775	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N5R6	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q32MZ4	9606	0.75	experiments:enzymatic study,protein complementation assay;pmids:33111431,888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O00506	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC8	2697049	Q96P20	9606	0.68	experiments:affinity chromatography technology,pull down;pmids:888800000464;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q15643	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,34709727,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P21333	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,36180527;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8IYF3	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q9Y5P8	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9HBI0	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P14868	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,36180527,888800000104,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q13162	9606	0.73	experiments:affinity chromatography technology;pmids:33080218,38172120;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9NZL9	9606	0.83	experiments:affinity chromatography technology,Two-hybrid;pmids:32353859,33060197,36217030,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P02462	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q14241	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q01650	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9Y261	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P29692	9606	0.87	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:34597346,34709727,36217030,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q7Z3T8	9606	0.73	experiments:BioID,enzymatic study;pmids:34672947,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9NZN4	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P19474	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	Q86VM9	9606	0.89	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,Two-hybrid;pmids:32353859,33060197,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P24385	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P49916	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O75533	9606	0.73	experiments:affinity chromatography technology;pmids:36180527,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9NUT2	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:33845483,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q92917	9606	0.74	experiments:BioID,enzymatic study;pmids:33111431,34597346,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q969T4	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8NF91	9606	0.71	experiments:BioID;pmids:34709727,35337019,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9H7Z7	9606	0.83	experiments:affinity chromatography technology,Two-hybrid;pmids:32353859,33060197,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q13409	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,36180527,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O15014	9606	0.8	experiments:BioID,protein complementation assay;pmids:34672954,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8N1B4	9606	0.8	experiments:BioID,Two-hybrid;pmids:34672954,36217029;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q16236	9606	0.73	experiments:protein complementation assay;pmids:37704626,888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P68371	9606	0.73	experiments:affinity chromatography technology;pmids:33080218,34634033;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q8IX01	9606	0.82	experiments:affinity chromatography technology,protein complementation assay;pmids:888800000303,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9HC52	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q15057	9606	0.75	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,36180527;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P04004	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96HE7	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+K0BWD0	1235996	P05161	9606	0.49	pmids:1610791;sources:PDB
+P0DTD1	2697049	Q13948	9606	0.8	experiments:BioID,protein complementation assay;pmids:888800000082,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P09497	9606	0.52	experiments:enzymatic study;pmids:34672947;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q86WP2	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+A0A663DJA2	2697049	Q9Y512	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q7Z5J1	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q7Z591	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q92837	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P68363	9606	0.74	experiments:affinity chromatography technology;pmids:33080218,34634033,38172120;sources:biogrid;interaction_type:direct interaction,physical association
+P59594	694009	P27824	9606	0.7	experiments:affinity chromatography technology,imaging technique,pull down;pmids:22915798;sources:biogrid;interaction_type:colocalization,direct interaction,physical association
+P0DTD1	2697049	Q9BXW4	9606	0.56	experiments:pull down;pmids:34799561;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	O60763	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:36217029,888800000817;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9P286	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q0VD86	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	A0PJY2	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q8NDC0	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UMX1	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P23258	9606	0.84	experiments:affinity chromatography technology,enzymatic study,protein complementation assay;pmids:33111431,36180527,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6ZSY5	9606	0.7	experiments:BioID;pmids:37704626,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+K9N5R3	1335626	Q8TEW0	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q7RTP6	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P33176	9606	0.73	experiments:affinity chromatography technology;pmids:33080218,888800000956;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O75528	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+K9N5R3	1335626	Q96QZ7	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96B67	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTC3	2697049	Q96JC1	9606	0.9	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,anti tagcoimmunoprecipitation,BioID,pull down,tandem affinity purification;pmids:32353859,32838362,33060197,33422265,33845483,33947832,34232536,34597346,34709727,35337019,36217030,36695574,888800000082,888800000104,888800000109,888800000168,888800000827;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q7KZF4	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,33989516,888800000082,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q05397	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9Y6G9	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,34672954;sources:biogrid;interaction_type:direct interaction,physical association
+K9N5R3	1335626	O15018	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N7X2	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTC6	2697049	O75360	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+K9N5R3	1335626	O95049	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P13942	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96KG9	9606	0.73	experiments:BioID,enzymatic study;pmids:33111431,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q13435	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34672947,34672954,36180527,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q13813	9606	0.76	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,34159380,36217030;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q96RY5	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8IUX1	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+K9N796	1335626	Q7Z6Z7	9606	0.65	experiments:affinity chromatography technology,enzymatic study;pmids:35032548;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P57764	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P12814	9606	0.85	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:36217030,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9UQR1	9606	0.73	experiments:affinity chromatography technology;pmids:33845483,37704626;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P61981	9606	0.84	experiments:pull down,x-ray crystallography;pmids:33556408,36427566;sources:biogrid;interaction_type:association,direct interaction
+P0DTC4	2697049	O60885	9606	0.9	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,Biochemical,x-ray crystallography;pmids:32353859,33060197,35716662,35839775,888800000817;sources:biogrid,virhostnet;interaction_type:association,colocalization,direct interaction,physical association
+P59594	694009	P08727	9606	0.56	experiments:pull down;pmids:22915798;sources:biogrid;interaction_type:direct interaction
+A0A663DJA2	2697049	Q99607	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P50222	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UBC2	9606	0.75	experiments:enzymatic study,protein complementation assay;pmids:33111431,888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q92841	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96Q04	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P22102	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727,36180527,36217030,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P40429	9606	0.81	experiments:affinity chromatography technology,BioID;pmids:33080218,34709727,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC8	2697049	Q5T4S7	9606	0.74	experiments:affinity chromatography technology;pmids:36217030,36877072,37704626,888800000956;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q6NUQ1	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:36180527,36217029,888800000082,888800000104,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q00975	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UPA5	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q14241	9606	0.87	experiments:affinity chromatography technology,affinity technology,BioID,enzymatic study;pmids:32838362,33111431,34672954;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTC3	2697049	Q9H3K2	9606	0.85	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:36217030,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q0IIM8	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UKX3	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P00488	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8IYX8	9606	0.73	experiments:Two-hybrid;pmids:36217029,36217030;sources:biogrid;interaction_type:direct interaction
+P0DTC6	2697049	P30622	9606	0.86	experiments:affinity chromatography technology,affinity technology,Two-hybrid;pmids:32838362,36217030;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q14152	9606	0.85	experiments:affinity chromatography technology,BioID,enzymatic study,pull down;pmids:32680882,34373319,34597346,34672947,35232816,36180527,37704626,888800000082,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9BQI7	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P59594	694009	Q1L6U9	9606	0.56	experiments:pull down;pmids:888800000220;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	Q8N3R9	9606	0.86	experiments:imaging technique,pull down,x-ray crystallography;pmids:32822073,34103506,34117354,35283834,36298757,888800000470;sources:biogrid;interaction_type:association,colocalization,direct interaction
+P0DTC9	2697049	Q8TAA5	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q15393	9606	0.73	experiments:affinity chromatography technology;pmids:33080218,38172120;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q5SV97	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9BRQ0	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9HCI5	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q13201	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9NQB0	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9NTJ5	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:34709727,35337019,36217029,888800000104,888800000931;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC6	2697049	O95870	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q6UWN5	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P05114	9606	0.83	experiments:affinity chromatography technology,protein complementation assay;pmids:33080218,36217030,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P68104	9606	0.82	experiments:affinity chromatography technology,Two-hybrid;pmids:21904596,38172120;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q96T25	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8WUA4	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96LT7	9606	0.7	experiments:BioID;pmids:34232992,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q06587	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC4	2697049	Q99942	9606	0.76	experiments:affinity chromatography technology,enzymatic study,fluorescent resonance energy transfer,imaging technique,pull down;pmids:36737599;sources:biogrid;interaction_type:colocalization,direct interaction,physical association
+P0DTD1	2697049	Q8N4C8	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9UPT8	9606	0.52	experiments:enzymatic study;pmids:34672947;sources:biogrid;interaction_type:direct interaction
+P59635	694009	P20701	9606	0.56	experiments:pull down;pmids:18020948;sources:biogrid;interaction_type:direct interaction
+K9N7C7	1335626	P49643	9606	0.56	experiments:pull down;pmids:34719824;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q12904	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P59594	694009	O60235	9606	0.52	experiments:enzymatic study;pmids:21994442;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q8IUC4	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O75951	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O75157	9606	0.52	experiments:enzymatic study;pmids:34672947;sources:biogrid;interaction_type:direct interaction
+K9N5R3	1335626	O00560	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q13895	9606	0.73	experiments:Two-hybrid;pmids:36217029,36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P17023	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	O00571	9606	0.85	experiments:affinity chromatography technology,BioID,imaging technique,pull down;pmids:33781803,34709727,35652658,36842152,36982856,38172120,888800000082,888800000956;sources:biogrid,virhostnet;interaction_type:colocalization,direct interaction,physical association
+P0DTC4	2697049	O75129	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96LR5	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P48556	9606	0.76	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,34672947,34687317,36180527;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q13112	9606	0.86	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:34709727,888800000104,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P05106	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC8	2697049	Q5JVG2	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q05682	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	P57764	9606	0.75	experiments:affinity chromatography technology,pull down,Two-hybrid;pmids:34296442;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC4	2697049	Q96JH8	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O60763	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34159380,34672954,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q9BVJ6	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q16539	9606	0.63	experiments:Two-hybrid;pmids:888800001056;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q02952	9606	0.76	experiments:affinity chromatography technology,enzymatic study;pmids:33111431,36180527,37704626,888800000168;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q12933	9606	0.83	experiments:BioID,enzymatic study,Two-hybrid;pmids:33111431,36217029,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q9Y3U8	9606	0.89	experiments:affinity chromatography technology,Affinity Capture-MS,affinity technology,protein complementation assay;pmids:32353859,33060197,33080218,34029587,36135776,38172120,888800000817;sources:biogrid,virhostnet;interaction_type:direct interaction,physical association
+P0DTC3	2697049	Q5T2W1	9606	0.49	pmids:33864728;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q92546	9606	0.81	experiments:BioID,Two-hybrid;pmids:36217029,888800000082,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q99466	9606	0.56	experiments:pull down;pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8WZ19	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P09110	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q96MM6	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q9H2G2	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8TF47	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q3MIN7	9606	0.49	pmids:37704626;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q8N1G0	9606	0.8	experiments:BioID,protein complementation assay;pmids:34672954,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	P19525	9606	0.87	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:34578187,34780058,35211260,35652658,36217029,38172120,888800000082,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P14859	9606	0.63	experiments:protein complementation assay;pmids:888800000833;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q86UP2	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34672954,34709727,888800000104,888800000109;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P62241	9606	0.81	experiments:affinity chromatography technology,BioID;pmids:33080218,36180527,888800000104;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTC9	2697049	Q8WTP8	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P18846	9606	0.62	experiments:enzymatic study;pmids:33111431,34672947;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P07910	9606	0.85	experiments:affinity chromatography technology,BioID,protein complementation assay;pmids:34709727,888800000833;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	P05783	9606	0.82	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	A6NK89	9606	0.63	experiments:Two-hybrid;pmids:36217029;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	P0CG13	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q86TG7	9606	0.83	experiments:affinity chromatography technology,BioID,enzymatic study;pmids:33111431,33845483,34709727;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	Q86VP1	9606	0.86	experiments:affinity chromatography technology,BioID,Two-hybrid;pmids:33845483,36217030,888800000082;sources:biogrid;interaction_type:direct interaction,physical association
+P0DTD1	2697049	O60218	9606	0.63	experiments:Two-hybrid;pmids:36217030;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	O43715	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction
+P0DTD1	2697049	Q5T5P2	9606	0.52	experiments:enzymatic study;pmids:33111431;sources:biogrid;interaction_type:direct interaction
+P0DTC9	2697049	Q9UPT9	9606	0.49	pmids:33080218;sources:biogrid;interaction_type:direct interaction

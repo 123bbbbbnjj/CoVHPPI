@@ -1,0 +1,8 @@
+Metric	Average
+Total	102.0
+Rest	7.0
+ML	80.0
+IM	38.0
+DDI	59.0
+DMI	65.0
+S	47.0
