@@ -13,7 +13,11 @@ The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2,
 - **TensorFlow**: 2.16.1
 - **XGBoost**: 2.0.3
 - **zzd**: 1.0.5
-
+## Model download
+1.EsmMean（2560）:https://ai.gitee.com/hf-models/facebook/esm2_t36_3B_UR50D
+2.ProtTrans（1024）:https://github.com/agemagician/ProtTrans
+3.doc2vec（32）:http://zzdlab.com/intersppi/hvppi/download/HVPPI.tar.gz
+  
 ## Datasets
 - **C1**: C1 represents the regular randomized partition of the test set; 
 - **C2v and C2h**: C2v and C2h due to the involvement of two different species, virus and human
