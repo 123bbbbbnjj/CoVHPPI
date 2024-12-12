@@ -82,13 +82,20 @@ Within our computational framework, each pair of proteins is provided as input i
     
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
   - `python 10folds_RF_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
- 
+  - `python 10folds_AB_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
+  - `python 10folds_NN_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
+  - `python 10folds_SVM_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
+  - `python 10folds_XGB_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
+
 
 
 <a name="(IM)"></a>
 ## 🧬&nbsp;  Interolog Mapping (IM)
 
-- The IM method is mainly based on the homology of protein sequences for inference 
+- The IM method is mainly based on the homology of protein sequences for inference 、
+The quality of each PPI template was evaluated with the HIPPIE strategy [55], which assigns a confidence score to each PPI template (SIM). To further identify homology of query protein pairs between viruses and humans, BLAST was used to search for identifying their homologues (E-value≤10-5, sequence identity≥30%, and alignment coverage of query protein≥40%). Finally, if the query protein pair identified n homologous PPI template pairs, the IM method's interaction probability (PrIM) can be defined as:
+
+
 - Obtain the training set of C1C2hC2vC3    
   - `python IM/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
