@@ -35,37 +35,37 @@ The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2,
 
 ### Interolog Mapping (IM)
 - The IM method is mainly based on the homology of protein sequences for inference 
-- Obtain the training set of C1C2hC2vC3
+- Obtain the training set of C1C2hC2vC3    
 - `python IM/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
-- **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
+- **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
 - `python IM/C1C2C3/10folds_C1223_IM.py`
 
 ### Domain-Domain Interaction Methodology (DDI)
 - The DDI method predicts the interaction probability of query protein pairs based on the detection of interacting domain-domain pairs
--Obtain the training set of C1C2hC2vC3
+-Obtain the training set of C1C2hC2vC3    
 -  `python DDI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
-- **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
+- **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
 - `python DDI/C1C2C3/10folds_C1223_DDI.py`
 
 ### Domain-Motif Interaction Methodology (DMI)
 - The DMI method, which is based on identifying interacting human protein domain and viral protein motif pairs for interaction probability prediction, is considered the most biologically meaningful method
--Obtain the training set of C1C2hC2vC3
+-Obtain the training set of C1C2hC2vC3    
 -  `python DMI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
-- **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
-  - `python DMI/C1C2C3/10folds_C1223_DMI.py`
+- **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
+  - `python DMI/C1C2C3/10folds_C1223_DMI.py`   
 
-### Structure-Based Approaches (S)
-- Compared to sequences, there is a lack of data for structures, although the relative conservatism of structures favors the prediction of PPIs. Similar to the IM method, the S method makes inferences based on the similarity of protein structures
--Obtain the training set of C1C2hC2vC3
-- `python S/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
-- **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
-- `python S/C1C2C3/10folds_C1223_S.py`
+### Structure-Based Approaches (S)   
+- Compared to sequences, there is a lack of data for structures, although the relative conservatism of structures favors the prediction of PPIs. Similar to the IM method, the S method makes inferences based on the similarity of protein structures    
+-Obtain the training set of C1C2hC2vC3   
+- `python S/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`    
+- **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
+- `python S/C1C2C3/10folds_C1223_S.py`   
 
-## Integrated Model
+## Integrated Model   
 In order to comprehensively predict the interaction between coronaviruses and human proteins, we ultimately constructed an ensemble model using RF as a meta learner by integrating the output probabilities of five methods
--`python Integrated_model/C1C2C3_RF.py`
-## Predicted
-**Run the Model**:
+-`python Integrated_model/C1C2C3_RF.py`   
+## Predicted   
+**Run the Model**:    
 -`python final_predict/predict.py`
 
 ## Contact
