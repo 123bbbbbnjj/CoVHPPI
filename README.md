@@ -15,22 +15,22 @@ The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2,
 
 Table of Contents
 =================
-* [ ⌛️&nbsp; Software Environment](#Software Environment)
-* [ ⚗️&nbsp; Model download](#Model download)
+* [ ⌛️&nbsp; Software Environment](#Environment)
+* [ ⚗️&nbsp; Model download](#Model_download)
 * [ 🚀&nbsp;Datasets](#Datasets)
-* [ ⌛️&nbsp; Five Computational-Based Methods for PPI Prediction](#Five Computational-Based Methods for PPI Prediction)
-  * [ ⌛️&nbsp; Machine Learning Techniques (ML)](#Machine Learning Techniques (ML))
-  * [ 🧬&nbsp;  Interolog Mapping (IM)](# Interolog Mapping (IM))
-  * [ 💥&nbsp;  Domain-Domain Interaction Methodology (DDI)](# Domain-Domain Interaction Methodology (DDI))
-  * [ 🧠&nbsp; Domain-Motif Interaction Methodology (DMI)](#Domain-Motif Interaction Methodology (DMI))
-  * [ ⚗️&nbsp; Structure-Based Approaches (S) ](#Structure-Based Approaches (S))
-* [ 🧐&nbsp;  Integrated Model ](# Integrated Model)
+* [ ⌛️&nbsp; Five Computational-Based Methods for PPI Prediction](#Five)
+  * [ ⌛️&nbsp; Machine Learning Techniques (ML)](#(ML))
+  * [ 🧬&nbsp;  Interolog Mapping (IM)](#(IM))
+  * [ 💥&nbsp;  Domain-Domain Interaction Methodology (DDI)](#(DDI))
+  * [ 🧠&nbsp; Domain-Motif Interaction Methodology (DMI)](#(DMI))
+  * [ ⚗️&nbsp; Structure-Based Approaches (S) ](#(S))
+* [ 🧐&nbsp;  Integrated Model ](#Integrated_Model)
 * [ 📈&nbsp; Predicted ](#Predicted)
 * [ ❤️&nbsp;Contact ](#Contact)
 
 
 
-<a name="Software Environment"></a>
+<a name="Environment"></a>
 ## ⌛️&nbsp; Software Environment
 
 - **Python**: 3.12.2
@@ -44,7 +44,7 @@ Table of Contents
 
 
 
-<a name="Model download"></a>
+<a name="Model_download"></a>
 ## ⚗️&nbsp; Model download
 1.EsmMean（2560）:https://ai.gitee.com/hf-models/facebook/esm2_t36_3B_UR50D    
 2.ProtTrans（1024）:https://github.com/agemagician/ProtTrans    
@@ -59,10 +59,10 @@ Table of Contents
 - **C3**: C3 represents the fact that none of the proteins in the test set can be found in the training set. 
 - **Fold5**:five-fold cross-validation comparisons
 
-<a name="Five Computational-Based Methods for PPI Prediction"></a>
+<a name="Five"></a>
 ## ⌛️&nbsp; Five Computational-Based Methods for PPI Prediction
 
-<a name="Machine Learning Techniques (ML)"></a>
+<a name="(ML)"></a>
 ## ⌛️&nbsp; Machine Learning Techniques (ML)
    
 - **Feature Extraction**:
@@ -80,7 +80,7 @@ Table of Contents
  
 
 
-<a name=" Interolog Mapping (IM)"></a>
+<a name="(IM)"></a>
 ## 🧬&nbsp;  Interolog Mapping (IM)
 
 - The IM method is mainly based on the homology of protein sequences for inference 
@@ -91,7 +91,7 @@ Table of Contents
 
 
 
-<a name=" Domain-Domain Interaction Methodology (DDI)"></a>
+<a name="(DDI)"></a>
 ## 💥&nbsp;  Domain-Domain Interaction Methodology (DDI)
 
 - The DDI method predicts the interaction probability of query protein pairs based on the detection of interacting domain-domain pairs
@@ -102,7 +102,7 @@ Table of Contents
 
 
 
-<a name="Domain-Motif Interaction Methodology (DMI)"></a>
+<a name="(DMI)"></a>
 ## 🧠&nbsp; Domain-Motif Interaction Methodology (DMI)
 
 - The DMI method, which is based on identifying interacting human protein domain and viral protein motif pairs for interaction probability prediction, is considered the most biologically meaningful method
@@ -112,7 +112,7 @@ Table of Contents
 - `python DMI/C1C2C3/10folds_C1223_DMI.py`   
 
 
-<a name="Structure-Based Approaches (S)"></a>
+<a name="(S)"></a>
 ## ⚗️&nbsp; Structure-Based Approaches (S)
 
 - Compared to sequences, there is a lack of data for structures, although the relative conservatism of structures favors the prediction of PPIs. Similar to the IM method, the S method makes inferences based on the similarity of protein structures    
@@ -123,7 +123,7 @@ Table of Contents
 
 
 
-<a name=" Integrated Model"></a>
+<a name=" Integrated_Model"></a>
 ## 🧐&nbsp;  Integrated Model
 
 In order to comprehensively predict the interaction between coronaviruses and human proteins, we ultimately constructed an ensemble model using RF as a meta learner by integrating the output probabilities of five methods    
