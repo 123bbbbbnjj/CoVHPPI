@@ -57,8 +57,10 @@ Table of Contents
 - **C3**: C3 represents the fact that none of the proteins in the test set can be found in the training set. 
 - **Fold5**:five-fold cross-validation comparisons
 ###Dataset
-- **Bulid C1C2C3**: `python data/build_C1C2C3.py`
-- **Bulid Fold5**: `python data/build_Fold5.py`
+- **Bulid C1C2C3**:
+  -  `python data/build_C1C2C3.py`
+- **Bulid Fold5**:
+  -  `python data/build_Fold5.py`
 
 <a name="Five"></a>
 ## ⌛️&nbsp; Five Computational-Based Methods for PPI Prediction    
@@ -67,8 +69,10 @@ Within our computational framework, each pair of proteins is provided as input i
 ## ⌛️&nbsp; Machine Learning Techniques (ML)
    
 - **Feature Extraction**:
-  - Amino acid composition (AAC) and order: `python ML/features/CKSAAP.py`
-  - Evolutionary information: `python ML/features/get_pssm.py`
+  - Amino acid composition (AAC) and order: 
+    -`python ML/features/CKSAAP.py`
+  - Evolutionary information: 
+    -`python ML/features/get_pssm.py`
   - Protein embeddings: 
     - `python ML/features/doc2vec.py`
     - `python ML/features/EMS2.py`
@@ -86,9 +90,9 @@ Within our computational framework, each pair of proteins is provided as input i
 
 - The IM method is mainly based on the homology of protein sequences for inference 
 - Obtain the training set of C1C2hC2vC3    
-- `python IM/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
+  - `python IM/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
-- `python IM/C1C2C3/10folds_C1223_IM.py`
+  - `python IM/C1C2C3/10folds_C1223_IM.py`
 
 
 
@@ -97,9 +101,9 @@ Within our computational framework, each pair of proteins is provided as input i
 
 - The DDI method predicts the interaction probability of query protein pairs based on the detection of interacting domain-domain pairs
 -Obtain the training set of C1C2hC2vC3    
--  `python DDI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
+  -  `python DDI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
-- `python DDI/C1C2C3/10folds_C1223_DDI.py`
+  - `python DDI/C1C2C3/10folds_C1223_DDI.py`
 
 
 
@@ -108,9 +112,9 @@ Within our computational framework, each pair of proteins is provided as input i
 
 - The DMI method, which is based on identifying interacting human protein domain and viral protein motif pairs for interaction probability prediction, is considered the most biologically meaningful method
 -Obtain the training set of C1C2hC2vC3    
--  `python DMI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
+  -  `python DMI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
-- `python DMI/C1C2C3/10folds_C1223_DMI.py`   
+  - `python DMI/C1C2C3/10folds_C1223_DMI.py`   
 
 
 <a name="(S)"></a>
@@ -118,9 +122,9 @@ Within our computational framework, each pair of proteins is provided as input i
 
 - Compared to sequences, there is a lack of data for structures, although the relative conservatism of structures favors the prediction of PPIs. Similar to the IM method, the S method makes inferences based on the similarity of protein structures    
 -Obtain the training set of C1C2hC2vC3   
-- `python S/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`    
+  - `python S/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`    
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
-- `python S/C1C2C3/10folds_C1223_S.py`   
+  - `python S/C1C2C3/10folds_C1223_S.py`   
 
 
 
@@ -128,14 +132,14 @@ Within our computational framework, each pair of proteins is provided as input i
 ## 🧐&nbsp;  Integrated Model
 
 In order to comprehensively predict the interaction between coronaviruses and human proteins, we ultimately constructed an ensemble model using RF as a meta learner by integrating the output probabilities of five methods    
--`python Integrated_model/C1C2C3_RF.py`
+  -`python Integrated_model/C1C2C3_RF.py`
  
 <a name="Predicted"></a>
 ## 📈&nbsp; Predicted
 
 **Run the Model**:    
 
--`python final_predict/predict.py`
+  -`python final_predict/predict.py`
     
 <a name="Contact"></a>
 ## ❤️&nbsp; Contact
