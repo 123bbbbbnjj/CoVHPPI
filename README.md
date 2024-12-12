@@ -50,13 +50,13 @@ Table of Contents
   
 
 <a name="Datasets"></a>
-## 🚀&nbsp; Datasets
-###Introduction
+## 🚀&nbsp; Datasets    
+### Introduction
 - **C1**: C1 represents the regular randomized partition of the test set; 
 - **C2v and C2h**: C2v and C2h due to the involvement of two different species, virus and human
 - **C3**: C3 represents the fact that none of the proteins in the test set can be found in the training set. 
 - **Fold5**:five-fold cross-validation comparisons
-###Dataset
+### Dataset    
 - **Bulid C1C2C3**:
   -  `python data/build_C1C2C3.py`
 - **Bulid Fold5**:
@@ -69,13 +69,13 @@ Within our computational framework, each pair of proteins is provided as input i
 ## ⌛️&nbsp; Machine Learning Techniques (ML)
    
 - **Feature Extraction**:
-  - Amino acid composition (AAC) and order: 
+  - Amino acid composition (AAC) and order:     
     -`python ML/features/CKSAAP.py`
-  - Evolutionary information: 
+  - Evolutionary information:     
     -`python ML/features/get_pssm.py`
   - Protein embeddings: 
     - `python ML/features/doc2vec.py`
-    - `python ML/features/EMS2.py`
+    - `python EMS2.py  esm2_t36_3B_UR50D  ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36 --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl `
     - `python ML/features/prottrans.py`
   - other features
     - `Rscript feature.R`
@@ -92,16 +92,8 @@ Within our computational framework, each pair of proteins is provided as input i
 <a name="(IM)"></a>
 ## 🧬&nbsp;  Interolog Mapping (IM)
 
-- The IM method is mainly based on the homology of protein sequences for inference 、
-The quality of each PPI template was evaluated with the HIPPIE strategy [55], which assigns a confidence score to each PPI template (SIM). To further identify homology of query protein pairs between viruses and humans, BLAST was used to search for identifying their homologues (E-value≤10-5, sequence identity≥30%, and alignment coverage of query protein≥40%). Finally, if the query protein pair identified n homologous PPI template pairs, the IM method's interaction probability (PrIM) can be defined as:
-
-\[
-Pr_{IM} = 
-\begin{cases} 
-0 & , \quad n=0 \\
-1 - \prod_{i=1}^n (1 - S_{IM-i}) & , \quad n>0 
-\end{cases}
-\]
+- The IM method is mainly based on the homology of protein sequences for inference .
+The quality of each PPI template was evaluated with the HIPPIE strategy [55], which assigns a confidence score to each PPI template (SIM). To further identify homology of query protein pairs between viruses and humans, BLAST was used to search for identifying their homologues (E-value≤10-5, sequence identity≥30%, and alignment coverage of query protein≥40%). 
 - Obtain the training set of C1C2hC2vC3    
   - `python IM/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
