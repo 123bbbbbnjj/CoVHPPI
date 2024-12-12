@@ -29,7 +29,7 @@ The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2,
 ## Five Computational-Based Methods for PPI Prediction
 
 ### Machine Learning Techniques (ML)
-```console    
+```    
 - **Feature Extraction**:
   - Amino acid composition (AAC) and order: `python ML/features/CKSAAP.py`
   - Evolutionary information: `python ML/features/get_pssm.py`
