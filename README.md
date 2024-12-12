@@ -7,10 +7,8 @@
 
 The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2, pose a significant threat to human society. Understanding coronaviruses is crucial for mitigating the coronavirus pandemic. In this study, we conducted a comprehensive comparison and evaluation of five prevalent computational methods: interolog mapping, domain-domain interaction methodology, domain-motif interaction methodology, structure-based approaches, and machine learning techniques. These methods were assessed using unbiased datasets that include C1, C2h, C2v, and C3 test sets. Ultimately, we integrated these five methodologies into a unified model for predicting protein-protein interactions (PPIs) between coronaviruses and human proteins. Based on this model, we further established a high-confidence PPI network between coronaviruses and humans, consisting of 18,012 interactions between 3,843 human proteins and 129 coronavirus proteins. The reliability of our predictions was further validated through current knowledge framework and network analysis. 
 <br/>
-<p align="center">
-    <img width="70%" src="[https://github.com/covhppilab/image/blob/main/image1.png](https://github.com/covhppilab/CoVHPPI/blob/main/image.png)" alt="ProtTrans Attention Visualization">
-</p>
-<br/>
+
+
 
 
 Table of Contents
@@ -53,15 +51,18 @@ Table of Contents
 
 <a name="Datasets"></a>
 ## 🚀&nbsp; Datasets
-
+###Introduction
 - **C1**: C1 represents the regular randomized partition of the test set; 
 - **C2v and C2h**: C2v and C2h due to the involvement of two different species, virus and human
 - **C3**: C3 represents the fact that none of the proteins in the test set can be found in the training set. 
 - **Fold5**:five-fold cross-validation comparisons
+###Dataset
+- **Bulid C1C2C3**: `python data/build_C1C2C3.py`
+- **Bulid Fold5**: `python data/build_Fold5.py`
 
 <a name="Five"></a>
-## ⌛️&nbsp; Five Computational-Based Methods for PPI Prediction
-
+## ⌛️&nbsp; Five Computational-Based Methods for PPI Prediction    
+Within our computational framework, each pair of proteins is provided as input in the form of sequences or structures, and the predicted probability (Pr) of each method is output through five prevalent computational-based methods (ML, IM, DDI, DMI, and S). Finally, five different prediction probabilities were integrated adopting the Stacking strategy with Random Forest (RF) to derive the final interaction score.
 <a name="(ML)"></a>
 ## ⌛️&nbsp; Machine Learning Techniques (ML)
    
