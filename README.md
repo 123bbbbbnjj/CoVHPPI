@@ -52,7 +52,7 @@ The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2,
 -Obtain the training set of C1C2hC2vC3    
 -  `python DMI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
-  - `python DMI/C1C2C3/10folds_C1223_DMI.py`   
+- `python DMI/C1C2C3/10folds_C1223_DMI.py`   
 
 ### Structure-Based Approaches (S)   
 - Compared to sequences, there is a lack of data for structures, although the relative conservatism of structures favors the prediction of PPIs. Similar to the IM method, the S method makes inferences based on the similarity of protein structures    
@@ -62,7 +62,7 @@ The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2,
 - `python S/C1C2C3/10folds_C1223_S.py`   
 
 ## Integrated Model   
-In order to comprehensively predict the interaction between coronaviruses and human proteins, we ultimately constructed an ensemble model using RF as a meta learner by integrating the output probabilities of five methods
+In order to comprehensively predict the interaction between coronaviruses and human proteins, we ultimately constructed an ensemble model using RF as a meta learner by integrating the output probabilities of five methods    
 -`python Integrated_model/C1C2C3_RF.py`   
 ## Predicted   
 **Run the Model**:    
