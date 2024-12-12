@@ -44,10 +44,19 @@ Table of Contents
 
 <a name="Model_download"></a>
 ## ⚗️&nbsp; Model download
-1.EsmMean（2560）:https://ai.gitee.com/hf-models/facebook/esm2_t36_3B_UR50D    
-2.ProtTrans（1024）:https://github.com/agemagician/ProtTrans    
-3.doc2vec（32）:http://zzdlab.com/intersppi/hvppi/download/HVPPI.tar.gz    
-  
+① EsmMean (2560): EsmMean encoding is the average length of ESM 2 in the protein output vector of the final layer. Note: ESM 2 used here is the pre trained model esm2_t36_3B_UR50D. Among them, code reference https://github.com/facebookresearch/esm/blob/main/scripts/extract.py .
+② ProtTrans (1024): ProtTrans uses UniRef and BFD (Big Fantastic Database) datasets as corpora, and employs autoregressive and autoencoder models to generate protein representations. The pre trained model used here is prot_t5-xx_half_unref50 enc. For each protein, the ProtT5 model is used to generate a final representation of L × 1024, where L is the length of the protein. In this work, ProtTrans encoding is the length averaged vector of the output (L × 1024) from ProtT5. Among them, code reference https://github.com/agemagician/ProtTrans .
+③ Doc2vec (32): In an unsupervised doc2vec embedding learning framework, the feature representation of continuous protein sequences is based on the assumption that a set of protein sequences form a "document".
+The pre trained model used here is human-virus_all-doc2vector-al-5-2-32-3-70_0-5000HVPPI_madel, where the code reference is http://zzdlab.com/intersppi/hvppi/download/HVPPI.tar.gz .  
+1. EsmMean (2560)
+Description: EsmMean encoding is the average length of ESM 2 in the protein output vector of the final layer. Note: The ESM 2 used here is the pre-trained model esm2_t36_3B_UR50D.
+Code Reference: [facebookresearch/esm](https://github.com/facebookresearch/esm/blob/main/scripts/extract.py .)
+2. ProtTrans (1024)
+Description: ProtTrans uses UniRef and BFD (Big Fantastic Database) datasets as corpora and employs autoregressive and autoencoder models to generate protein representations. The pre-trained model used here is prot_t5-xx_half_unref50 enc. For each protein, the ProtT5 model is used to generate a final representation of L × 1024, where L is the length of the protein. In this work, ProtTrans encoding is the length-averaged vector of the output (L × 1024) from ProtT5.
+Code Reference: [agemagician/ProtTrans](https://github.com/agemagician/ProtTrans )
+3. Doc2vec (32)
+Description: In an unsupervised doc2vec embedding learning framework, the feature representation of continuous protein sequences is based on the assumption that a set of protein sequences forms a "document".
+Code Reference: [Doc2vec](http://zzdlab.com/intersppi/hvppi/download/HVPPI.tar.gz)
 
 <a name="Datasets"></a>
 ## 🚀&nbsp; Datasets    
@@ -70,9 +79,9 @@ Within our computational framework, each pair of proteins is provided as input i
    
 - **Feature Extraction**:
   - Amino acid composition (AAC) and order:     
-    -`python ML/features/CKSAAP.py`
+    - `python ML/features/CKSAAP.py`
   - Evolutionary information:     
-    -`python ML/features/get_pssm.py`
+    - `python ML/features/get_pssm.py`
   - Protein embeddings: 
     - `python ML/features/doc2vec.py`
     - `python EMS2.py  esm2_t36_3B_UR50D  ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36 --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl `
