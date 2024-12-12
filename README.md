@@ -3,7 +3,6 @@
 ## Overview
 The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2, pose a significant threat to human society. Understanding coronaviruses, especially the interactions between these viruses and humans, is crucial for mitigating the coronavirus pandemic. In this study, we conducted a comprehensive comparison and evaluation of five prevalent computational methods: interolog mapping, domain-domain interaction methodology, domain-motif interaction methodology, structure-based approaches, and machine learning techniques. These methods were assessed using unbiased datasets that include C1, C2h, C2v, and C3 test sets. Ultimately, we integrated these five methodologies into a unified model for predicting protein-protein interactions (PPIs) between coronaviruses and human proteins. Our final model demonstrates relatively better performance in particular with the C2v and C3 test sets, which are frequently-used datasets in practical applications. Based on this model, we further established a high-confidence PPI network between coronaviruses and humans, consisting of 18,012 interactions between 3,843 human proteins and 129 coronavirus proteins. The reliability of our predictions was further validated through current knowledge framework and network analysis. 
 
-C2 restricts the proteins of only one side to be found in the training set, which is further partitioned into C2v and C2h due to the involvement of two different species, virus and human; and C3 represents the fact that none of the proteins in the test set can be found in the training set. 
 
 ## Software Environment
 - **Python**: 3.12.2
@@ -64,7 +63,7 @@ C2 restricts the proteins of only one side to be found in the training set, whic
 
 ## Integrated Model
 In order to comprehensively predict the interaction between coronaviruses and human proteins, we ultimately constructed an ensemble model using RF as a meta learner by integrating the output probabilities of five methods
--python Integrated_model/C1C2C3_RF.py
+-`python Integrated_model/C1C2C3_RF.py`
 ## Predicted
 1**Run the Model**:
 -python final_predict/predict.py
