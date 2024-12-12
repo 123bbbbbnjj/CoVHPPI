@@ -152,7 +152,7 @@ In order to comprehensively predict the interaction between coronaviruses and hu
 <a name="Predicted"></a>
 ## 📈&nbsp; Predicted
 **threshold_setting**:
-  - `python final_predict/threshold_setting.py`
+  - `python final_predict/threshold_setting.py`     
 **Run the Model**:       
   - `python final_predict/predict.py`
     
