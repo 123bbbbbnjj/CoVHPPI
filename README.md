@@ -44,13 +44,10 @@ Table of Contents
 
 <a name="Model_download"></a>
 ## ⚗️&nbsp; Model download
-① EsmMean (2560): EsmMean encoding is the average length of ESM 2 in the protein output vector of the final layer. Note: ESM 2 used here is the pre trained model esm2_t36_3B_UR50D. Among them, code reference https://github.com/facebookresearch/esm/blob/main/scripts/extract.py .
-② ProtTrans (1024): ProtTrans uses UniRef and BFD (Big Fantastic Database) datasets as corpora, and employs autoregressive and autoencoder models to generate protein representations. The pre trained model used here is prot_t5-xx_half_unref50 enc. For each protein, the ProtT5 model is used to generate a final representation of L × 1024, where L is the length of the protein. In this work, ProtTrans encoding is the length averaged vector of the output (L × 1024) from ProtT5. Among them, code reference https://github.com/agemagician/ProtTrans .
-③ Doc2vec (32): In an unsupervised doc2vec embedding learning framework, the feature representation of continuous protein sequences is based on the assumption that a set of protein sequences form a "document".
-The pre trained model used here is human-virus_all-doc2vector-al-5-2-32-3-70_0-5000HVPPI_madel, where the code reference is http://zzdlab.com/intersppi/hvppi/download/HVPPI.tar.gz .  
+
 1. EsmMean (2560)
 Description: EsmMean encoding is the average length of ESM 2 in the protein output vector of the final layer. Note: The ESM 2 used here is the pre-trained model esm2_t36_3B_UR50D.
-Code Reference: [facebookresearch/esm](https://github.com/facebookresearch/esm/blob/main/scripts/extract.py .)
+Code Reference: [facebookresearch/esm](https://github.com/facebookresearch/esm/blob/main/scripts/extract.py )
 2. ProtTrans (1024)
 Description: ProtTrans uses UniRef and BFD (Big Fantastic Database) datasets as corpora and employs autoregressive and autoencoder models to generate protein representations. The pre-trained model used here is prot_t5-xx_half_unref50 enc. For each protein, the ProtT5 model is used to generate a final representation of L × 1024, where L is the length of the protein. In this work, ProtTrans encoding is the length-averaged vector of the output (L × 1024) from ProtT5.
 Code Reference: [agemagician/ProtTrans](https://github.com/agemagician/ProtTrans )
