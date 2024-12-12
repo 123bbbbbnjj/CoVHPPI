@@ -31,14 +31,14 @@ The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2,
     - `python ML/features/EMS2.py`
     - `python ML/features/prottrans.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
-  - `python 10folds_AB_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
+  - `python 10folds_RF_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
 
 ### Interolog Mapping (IM)
 - The IM method is mainly based on the homology of protein sequences for inference 
--Obtain the training set of C1C2hC2vC3
--  `python IM/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
+- Obtain the training set of C1C2hC2vC3
+- `python IM/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
-  - `python IM/C1C2C3/10folds_C1223_IM.py`
+- `python IM/C1C2C3/10folds_C1223_IM.py`
 
 ### Domain-Domain Interaction Methodology (DDI)
 - The DDI method predicts the interaction probability of query protein pairs based on the detection of interacting domain-domain pairs
@@ -66,7 +66,7 @@ In order to comprehensively predict the interaction between coronaviruses and hu
 -`python Integrated_model/C1C2C3_RF.py`
 ## Predicted
 **Run the Model**:
--python final_predict/predict.py
+-`python final_predict/predict.py`
 
 ## Contact
 For any questions or collaborations, please contact Jia Wang at wang.jia@mail.hzau.edu.cn.
