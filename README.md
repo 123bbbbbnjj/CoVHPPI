@@ -123,8 +123,8 @@ The quality of each PPI template was evaluated with the HIPPIE strategy , which 
 
 - The DMI method predicts the likelihood of interactions between human proteins and viral motifs. It's seen as the most biologically relevant approach . DMI data was sourced from the 3did database to form a template library. The traditional DMI method uses this data for PPI prediction, so all DMI templates were given a default confidence score of 0.5. Like the DDI method, human protein domains were identified with Hmmscan, and viral protein motifs were found using regular expressions in the positive samples. Frequent domain-motif pairs were filtered out to get specific human-coronavirus pairs. The confidence score for each domain-motif pair template was normalized to a 0-1 scale based on their frequency of occurrence. The domain and motif pairs dataset specific to coronavirus and humans was combined with the DMI template library, and the average confidence scores of the domain and motif pairs were calculated as the final scores (SDMI).
 
--Obtain the training set of C1C2hC2vC3    
-  -  `python DMI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
+- Obtain the training set of C1C2hC2vC3    
+  - `python DMI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
   - `python DMI/C1C2C3/10folds_C1223_DMI.py`   
 
