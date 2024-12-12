@@ -9,6 +9,8 @@ The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2,
 <br/>
 <p align="center">
     <img width="70%" src="https://github.com/covhppilab/image/blob/main/image1.png" alt="ProtTrans Attention Visualization">
+    ![image](https://github.com/user-attachments/assets/693402bc-8e8a-4485-b695-d09ebd7e04e9)
+
 </p>
 <br/>
 
