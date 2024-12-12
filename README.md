@@ -32,7 +32,7 @@ Table of Contents
 
 <a name="Software Environment">
 ## ⌛️&nbsp; Software Environment</a>
-```
+
 - **Python**: 3.12.2
 - **Keras**: 3.1.1
 - **NumPy**: 1.26.4
@@ -41,7 +41,7 @@ Table of Contents
 - **TensorFlow**: 2.16.1
 - **XGBoost**: 2.0.3
 - **zzd**: 1.0.5
-```
+
 
 
 <a name="Model download"></a>
@@ -53,18 +53,18 @@ Table of Contents
 <h2> Datasets</h2>
 <a name="Datasets"></a>
 ## 🚀&nbsp; Datasets
-```
+
 - **C1**: C1 represents the regular randomized partition of the test set; 
 - **C2v and C2h**: C2v and C2h due to the involvement of two different species, virus and human
 - **C3**: C3 represents the fact that none of the proteins in the test set can be found in the training set. 
 - **Fold5**:five-fold cross-validation comparisons
-```
+
 <a name="Five Computational-Based Methods for PPI Prediction"></a>
 ## ⌛️&nbsp; Five Computational-Based Methods for PPI Prediction
 
 <a name="Machine Learning Techniques (ML)"></a>
 ## ⌛️&nbsp; Machine Learning Techniques (ML)
-```    
+   
 - **Feature Extraction**:
   - Amino acid composition (AAC) and order: `python ML/features/CKSAAP.py`
   - Evolutionary information: `python ML/features/get_pssm.py`
@@ -77,65 +77,65 @@ Table of Contents
     
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
   - `python 10folds_RF_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
-```    
+ 
 
 
 <a name=" Interolog Mapping (IM)"></a>
 ## 🧬&nbsp;  Interolog Mapping (IM)
-```
+
 - The IM method is mainly based on the homology of protein sequences for inference 
 - Obtain the training set of C1C2hC2vC3    
 - `python IM/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
 - `python IM/C1C2C3/10folds_C1223_IM.py`
-```
+
 
 
 <a name=" Domain-Domain Interaction Methodology (DDI)"></a>
 ## 💥&nbsp;  Domain-Domain Interaction Methodology (DDI)
-```
+
 - The DDI method predicts the interaction probability of query protein pairs based on the detection of interacting domain-domain pairs
 -Obtain the training set of C1C2hC2vC3    
 -  `python DDI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
 - `python DDI/C1C2C3/10folds_C1223_DDI.py`
-```
+
 
 
 <a name="Domain-Motif Interaction Methodology (DMI)"></a>
 ## 🧠&nbsp; Domain-Motif Interaction Methodology (DMI)
-```
+
 - The DMI method, which is based on identifying interacting human protein domain and viral protein motif pairs for interaction probability prediction, is considered the most biologically meaningful method
 -Obtain the training set of C1C2hC2vC3    
 -  `python DMI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
 - `python DMI/C1C2C3/10folds_C1223_DMI.py`   
-```
+
 
 <a name="Structure-Based Approaches (S)"></a>
 ## ⚗️&nbsp; Structure-Based Approaches (S)
-```
+
 - Compared to sequences, there is a lack of data for structures, although the relative conservatism of structures favors the prediction of PPIs. Similar to the IM method, the S method makes inferences based on the similarity of protein structures    
 -Obtain the training set of C1C2hC2vC3   
 - `python S/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`    
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:    
 - `python S/C1C2C3/10folds_C1223_S.py`   
-```
+
 
 
 <a name=" Integrated Model"></a>
 ## 🧐&nbsp;  Integrated Model
-```
+
 In order to comprehensively predict the interaction between coronaviruses and human proteins, we ultimately constructed an ensemble model using RF as a meta learner by integrating the output probabilities of five methods    
 -`python Integrated_model/C1C2C3_RF.py`
-``` 
+ 
 <a name="Predicted"></a>
 ## 📈&nbsp; Predicted
-```
+
 **Run the Model**:    
 
 -`python final_predict/predict.py`
-```    
+    
 <a name="Contact"></a>
 ## ❤️&nbsp; Contact
 For any questions or collaborations, please contact Jia Wang at wang.jia@mail.hzau.edu.cn.
