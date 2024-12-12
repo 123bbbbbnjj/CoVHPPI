@@ -57,7 +57,7 @@ The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2,
 ### Structure-Based Approaches (S)
 - Compared to sequences, there is a lack of data for structures, although the relative conservatism of structures favors the prediction of PPIs. Similar to the IM method, the S method makes inferences based on the similarity of protein structures
 -Obtain the training set of C1C2hC2vC3
-- python S/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py
+- `python S/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
 - `python S/C1C2C3/10folds_C1223_S.py`
 
