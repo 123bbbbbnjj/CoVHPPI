@@ -65,7 +65,7 @@ The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2,
 In order to comprehensively predict the interaction between coronaviruses and human proteins, we ultimately constructed an ensemble model using RF as a meta learner by integrating the output probabilities of five methods
 -`python Integrated_model/C1C2C3_RF.py`
 ## Predicted
-1**Run the Model**:
+**Run the Model**:
 -python final_predict/predict.py
 
 ## Contact
