@@ -76,29 +76,29 @@ Within our computational framework, each pair of proteins is provided as input i
 - **Feature Extraction**:
   - Amino acid composition (AAC) and order:
     ```    
-    - `python ML/features/CKSAAP.py`
+    python ML/features/CKSAAP.py
     ```
   - Evolutionary information:
     ``` 
-    - `python ML/features/get_pssm.py`
+    python ML/features/get_pssm.py
     ```
   - Protein embeddings:
     ```
-    - `python ML/features/doc2vec.py`
-    - `python EMS2.py  esm2_t36_3B_UR50D  ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36 --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl `
-    - `python ML/features/prottrans.py`
+    python ML/features/doc2vec.py
+    python EMS2.py  esm2_t36_3B_UR50D  ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36 --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl 
+    python ML/features/prottrans.py
     ```
   - other features
     ```
-    - `Rscript feature.R`
+    Rscript feature.R
     ```
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
 ```
-  - `python 10folds_RF_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
-  - `python 10folds_AB_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
-  - `python 10folds_NN_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
-  - `python 10folds_SVM_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
-  - `python 10folds_XGB_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean`
+  python 10folds_RF_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean
+  python 10folds_AB_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean
+  python 10folds_NN_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean
+  python 10folds_SVM_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean
+  python 10folds_XGB_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean
 ```
 
 
@@ -110,11 +110,11 @@ The quality of each PPI template was evaluated with the HIPPIE strategy , which 
 
 - Obtain the training set of C1C2hC2vC3
   ```  
-  - `python IM/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
+  python IM/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py
   ```
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
   ```    
-  - `python IM/C1C2C3/10folds_C1223_IM.py`
+  python IM/C1C2C3/10folds_C1223_IM.py
   ```
 
 
@@ -125,11 +125,11 @@ The quality of each PPI template was evaluated with the HIPPIE strategy , which 
 
 -Obtain the training set of C1C2hC2vC3    
   ```
-  -  `python DDI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
+  python DDI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py
   ```
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
   ```
-  -  `python DDI/C1C2C3/10folds_C1223_DDI.py`
+  python DDI/C1C2C3/10folds_C1223_DDI.py
   ```
 
 
@@ -141,11 +141,11 @@ The quality of each PPI template was evaluated with the HIPPIE strategy , which 
 
 - Obtain the training set of C1C2hC2vC3
   ``` 
-  - `python DMI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
+  python DMI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py
   ```
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
   ```   
-  - `python DMI/C1C2C3/10folds_C1223_DMI.py`   
+  python DMI/C1C2C3/10folds_C1223_DMI.py 
   ```
 
 <a name="(S)"></a>
@@ -154,11 +154,11 @@ The quality of each PPI template was evaluated with the HIPPIE strategy , which 
 - Compared to sequences, there is a lack of data for structures, although the relative conservatism of structures favors the prediction of PPIs. Similar to the IM method, the S method makes inferences based on the similarity of protein structures. The template dataset used here is the structural data corresponding to the template dataset in the IM method, and is also given the same confidence score (SS) as the IM method. The structural data was obtained from the PDB [58]. Structural simulations were performed using AlphFold2 for proteins without structural annotations.. The relatively advanced US-align algorithm [60] was used to compare the protein structures between virus and virus as well as between virus and human, with TM-score≥0.5 as the judgment criterion for the structural similarity of two proteins.    
 -Obtain the training set of C1C2hC2vC3
   ```
-  - `python S/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py`
+  python S/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py
   ```
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
   ```
-  - `python S/C1C2C3/10folds_C1223_S.py`   
+  python S/C1C2C3/10folds_C1223_S.py   
   ```
 
 
@@ -167,21 +167,21 @@ The quality of each PPI template was evaluated with the HIPPIE strategy , which 
 - For a more comprehensive prediction of coronaviruses and human PPIs, we finally constructed an integrated model with RF as a meta learner. This model synthesizes five methods to further improve the performance in the C2v and C3 test sets. Additionally, three other widely-used meta learners were chosen for benchmarking purposes. The result is shown in Fig. 8 and Supplementary Table 11, where CK indicates the ML method exhibits relatively superior performance among the five prediction methods.
 In order to comprehensively predict the interaction between coronaviruses and human proteins, we ultimately constructed an ensemble model using RF as a meta learner by integrating the output probabilities of five methods.
   ```
-  - `python Integrated_model/C1C2C3_RF.py`
-  - `python Integrated_model/C1C2C3_LR.py`
-  - `python Integrated_model/C1C2C3_NB.py`
-  - `python Integrated_model/C1C2C3_SVM.py`
+  python Integrated_model/C1C2C3_RF.py
+  python Integrated_model/C1C2C3_LR.py
+  python Integrated_model/C1C2C3_NB.py
+  python Integrated_model/C1C2C3_SVM.py
   ```
   
 <a name="Predicted"></a>
 ## 📈&nbsp; Predicted
 **Threshold_setting**:
 ```
-  - `python final_predict/threshold_setting.py`
+python final_predict/threshold_setting.py
 ```   
 **Run the Model**:       
 ```
-  - `python final_predict/predict.py`
+python final_predict/predict.py
 ```
 <a name="Contact"></a>
 ## ❤️&nbsp; Contact
