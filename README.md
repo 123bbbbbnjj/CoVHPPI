@@ -145,38 +145,38 @@ Within our computational framework, each pair of proteins is provided as input i
         <td rowspan="4">Evolutionary information</td>
         <td>AAC-PSSM</td>
         <td>20</td>
-        <td>R</td>
+        <td>PSSM</td>
     </tr>
     <tr>
         <td>DPC-PSSM</td>
         <td>400</td>
-        <td>[41]</td>
+        <td>PSSM</td>
     </tr>
     <tr>
         <td>RPSSM</td>
         <td>110</td>
-        <td>[41]</td>
+        <td>PSSM</td>
     </tr>
     <tr>
         <td>PSSM-AC</td>
         <td>1200</td>
-        <td>[41]</td>
+        <td>R</td>
     </tr>
  <tr>
         <td rowspan="3">Protein embedding</td>
         <td>EsmMean</td>
         <td>2560</td>
-        <td>R</td>
+        <td>model</td>
     </tr>
     <tr>
         <td>ProtTrans</td>
         <td>1024</td>
-        <td>R</td>
+        <td>model</td>
     </tr>
     <tr>
         <td>Doc2vec</td>
         <td>32</td>
-        <td>[41]</td>
+        <td>model</td>
     </tr>
  
    
