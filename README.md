@@ -77,72 +77,116 @@ Within our computational framework, each pair of proteins is provided as input i
         <th>Groups</th>
         <th>Encodings</th>
         <th>Dimension</th>
-        <th>Description</th>
-        <th>Tool</th>
+        <th>Code</th>
     </tr>
     <tr>
         <td rowspan="3">Amino acid composition and order</td>
         <td>AAC</td>
         <td>20</td>
-        <td>It represents the frequency of 20 standard amino acids in a protein sequence.</td>
-        <td>protr[45]</td>
+        <td>R</td>
     </tr>
     <tr>
         <td>DC</td>
         <td>400</td>
-        <td>It represents the frequency of dipeptide composition of standard amino acids in a protein sequence.</td>
-        <td>protr</td>
+        <td>R</td>
     </tr>
     <tr>
         <td>CKSAAP</td>
         <td>1200</td>
-        <td>It represents the frequency of k-spaced dipeptide combinations in a protein sequence (k=0,1,2,3).</td>
-        <td>[41]</td>
+        <td>python ML/features/CKSAAP.py</td>
     </tr>
     <tr>
-        <td rowspan="7">Amino acid physicochemical properties</td>
+        <td rowspan="9">Amino acid physicochemical properties</td>
         <td>APseAAC</td>
         <td>80</td>
-        <td>It captures the amphiphilic nature of protein sequences by considering the correlations between hydrophobic and hydrophilic amino acids[46].</td>
-        <td>protr</td>
+        <td>R</td>
     </tr>
     <tr>
         <td>PseAAC</td>
         <td>50</td>
-        <td>It represents the protein sequence based on a pseudo-amino acid composition that includes sequence-order effects[46].</td>
-        <td>protr</td>
+        <td>R</td>
     </tr>
     <tr>
         <td>CT</td>
         <td>343</td>
-        <td>It represents the frequency of the triad of 20 amino acids grouped into seven amino acid classes based on dipole and side chain volume in a protein sequence[47].</td>
-        <td>protr</td>
+        <td>R</td>
     </tr>
     <tr>
         <td>CTD</td>
         <td>147</td>
-        <td>It represents the Composition, Transition and Distribution of amino acids in a protein sequence[42].</td>
-        <td>protr</td>
+        <td>R</td>
     </tr>
     <tr>
         <td>QSO</td>
         <td>100</td>
-        <td>It analyzes protein sequences by considering the distances between amino acids at different positions, providing information on the sequence's order[48].</td>
-        <td>protr</td>
+        <td>R</td>
     </tr>
     <tr>
         <td>SOCN</td>
         <td>60</td>
-        <td>It measures the distance between amino acids at different positions in a protein sequence, capturing the sequence's order effects[48].</td>
-        <td>protr</td>
+        <td>R</td>
     </tr>
     <tr>
         <td>Geary</td>
         <td>240</td>
-        <td>It represents an autocorrelation descriptor defined according to the distribution of amino acid properties in the sequence[49].</td>
-        <td>protr</td>
+        <td>R</td>
     </tr>
-    <!-- Add more rows as needed -->
+   <tr>
+        <td>Moran</td>
+        <td>240</td>
+        <td>R</td>
+    </tr>
+    <tr>
+        <td>Moreau-Broto</td>
+        <td>240</td>
+        <td>R</td>
+    </tr>
+    <tr>
+        <td rowspan="4">Evolutionary information</td>
+        <td>AAC-PSSM</td>
+        <td>20</td>
+        <td>It represents the frequency of 20 standard amino acids in a protein sequence.</td>
+        <td>R</td>
+    </tr>
+    <tr>
+        <td>DPC-PSSM</td>
+        <td>400</td>
+        <td>It represents the frequency of dipeptide composition of standard amino acids in a protein sequence.</td>
+        <td>[41]</td>
+    </tr>
+    <tr>
+        <td>RPSSM</td>
+        <td>110</td>
+        <td>It represents the frequency of k-spaced dipeptide combinations in a protein sequence (k=0,1,2,3).</td>
+        <td>[41]</td>
+    </tr>
+    <tr>
+        <td>PSSM-AC</td>
+        <td>1200</td>
+        <td>It represents the frequency of k-spaced dipeptide combinations in a protein sequence (k=0,1,2,3).</td>
+        <td>[41]</td>
+    </tr>
+ <tr>
+        <td rowspan="3">Protein embedding</td>
+        <td>EsmMean</td>
+        <td>2560</td>
+        <td>It represents the frequency of 20 standard amino acids in a protein sequence.</td>
+        <td>R</td>
+    </tr>
+    <tr>
+        <td>ProtTrans</td>
+        <td>1024</td>
+        <td>It represents the frequency of dipeptide composition of standard amino acids in a protein sequence.</td>
+        <td>R</td>
+    </tr>
+    <tr>
+        <td>Doc2vec</td>
+        <td>32</td>
+        <td>It represents the frequency of k-spaced dipeptide combinations in a protein sequence (k=0,1,2,3).</td>
+        <td>[41]</td>
+    </tr>
+ 
+   
 </table>
 - **Feature Extraction**:
   - Amino acid composition (AAC) and order:
