@@ -7,7 +7,7 @@
 
 The high lethality and infectiousness of coronaviruses, particularly SARS-Cov-2, pose a significant threat to human society. Understanding coronaviruses is crucial for mitigating the coronavirus pandemic. In this study, we conducted a comprehensive comparison and evaluation of five prevalent computational methods: interolog mapping, domain-domain interaction methodology, domain-motif interaction methodology, structure-based approaches, and machine learning techniques. These methods were assessed using unbiased datasets that include C1, C2h, C2v, and C3 test sets. Ultimately, we integrated these five methodologies into a unified model for predicting protein-protein interactions (PPIs) between coronaviruses and human proteins. Based on this model, we further established a high-confidence PPI network between coronaviruses and humans, consisting of 18,012 interactions between 3,843 human proteins and 129 coronavirus proteins. The reliability of our predictions was further validated through current knowledge framework and network analysis. 
 <br/>
-<img src="https://github.com/covhppilab/image/blob/main/image1.png"/>
+<img src="https://github.com/covhppilab/image/blob/main/Fig2.png"/>
 
 
 
