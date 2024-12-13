@@ -72,7 +72,78 @@ Code Reference: [Doc2vec](http://zzdlab.com/intersppi/hvppi/download/HVPPI.tar.g
 Within our computational framework, each pair of proteins is provided as input in the form of sequences or structures, and the predicted probability (Pr) of each method is output through five prevalent computational-based methods (ML, IM, DDI, DMI, and S). Finally, five different prediction probabilities were integrated adopting the Stacking strategy with Random Forest (RF) to derive the final interaction score.
 <a name="(ML)"></a>
 ## ⌛️&nbsp; Machine Learning Techniques (ML)
-  
+<table>
+    <tr>
+        <th>Groups</th>
+        <th>Encodings</th>
+        <th>Dimension</th>
+        <th>Description</th>
+        <th>Tool</th>
+    </tr>
+    <tr>
+        <td rowspan="3">Amino acid composition and order</td>
+        <td>AAC</td>
+        <td>20</td>
+        <td>It represents the frequency of 20 standard amino acids in a protein sequence.</td>
+        <td>protr[45]</td>
+    </tr>
+    <tr>
+        <td>DC</td>
+        <td>400</td>
+        <td>It represents the frequency of dipeptide composition of standard amino acids in a protein sequence.</td>
+        <td>protr</td>
+    </tr>
+    <tr>
+        <td>CKSAAP</td>
+        <td>1200</td>
+        <td>It represents the frequency of k-spaced dipeptide combinations in a protein sequence (k=0,1,2,3).</td>
+        <td>[41]</td>
+    </tr>
+    <tr>
+        <td rowspan="7">Amino acid physicochemical properties</td>
+        <td>APseAAC</td>
+        <td>80</td>
+        <td>It captures the amphiphilic nature of protein sequences by considering the correlations between hydrophobic and hydrophilic amino acids[46].</td>
+        <td>protr</td>
+    </tr>
+    <tr>
+        <td>PseAAC</td>
+        <td>50</td>
+        <td>It represents the protein sequence based on a pseudo-amino acid composition that includes sequence-order effects[46].</td>
+        <td>protr</td>
+    </tr>
+    <tr>
+        <td>CT</td>
+        <td>343</td>
+        <td>It represents the frequency of the triad of 20 amino acids grouped into seven amino acid classes based on dipole and side chain volume in a protein sequence[47].</td>
+        <td>protr</td>
+    </tr>
+    <tr>
+        <td>CTD</td>
+        <td>147</td>
+        <td>It represents the Composition, Transition and Distribution of amino acids in a protein sequence[42].</td>
+        <td>protr</td>
+    </tr>
+    <tr>
+        <td>QSO</td>
+        <td>100</td>
+        <td>It analyzes protein sequences by considering the distances between amino acids at different positions, providing information on the sequence's order[48].</td>
+        <td>protr</td>
+    </tr>
+    <tr>
+        <td>SOCN</td>
+        <td>60</td>
+        <td>It measures the distance between amino acids at different positions in a protein sequence, capturing the sequence's order effects[48].</td>
+        <td>protr</td>
+    </tr>
+    <tr>
+        <td>Geary</td>
+        <td>240</td>
+        <td>It represents an autocorrelation descriptor defined according to the distribution of amino acid properties in the sequence[49].</td>
+        <td>protr</td>
+    </tr>
+    <!-- Add more rows as needed -->
+</table>
 - **Feature Extraction**:
   - Amino acid composition (AAC) and order:
     ```    
@@ -92,20 +163,7 @@ Within our computational framework, each pair of proteins is provided as input i
     ```
     Rscript feature.R
     ```
- <table>
-  <tr>
-    <th>标题1<br>描述1</th>
-    <td>内容1</td>
-  </tr>
-  <tr>
-    <th>标题2<br>描述2</th>
-    <td>内容2</td>
-  </tr>
-  <tr>
-    <th>标题3<br>描述3</th>
-    <td>内容3</td>
-  </tr>
-</table>
+
 - **Model Testing on C1, C2h, C2v, and C3 Test Sets**:
 ```
   python 10folds_RF_C1223.py cksaap ctdc ctdt ctdd rpssm EsmMean
