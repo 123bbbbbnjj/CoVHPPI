@@ -241,7 +241,7 @@ The quality of each PPI template was evaluated with the HIPPIE strategy , which 
 
 - The DDI method forecasts how likely two proteins will interact by looking at known domain-domain interactions. It starts with a DDI template library made using a strategy similar to HVIDB, where each template gets a confidence score. For predicting coronavirus-human interactions, positive samples proteins are checked with Hmmscan for Pfam domains (E-value ≤ 10<sup>-5</sup>). Unique domain pairs for coronavirus and human proteins are identified. These pairs confidence scores are based on how often they occur, scaled to a 0-1 range. The final scores (SDDI) are the average confidence scores of these domain pairs.
 
--Obtain the training set of C1C2hC2vC3    
+- Obtain the training set of C1C2hC2vC3    
   ```
   python DDI/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py
   ```
