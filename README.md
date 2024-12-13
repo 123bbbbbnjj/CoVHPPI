@@ -180,8 +180,8 @@ Within our computational framework, each pair of proteins is provided as input i
     </tr>
 </table>
 Note: 
-1.When the value of the code column is R:Running code: Rscript feature.R    
-2.When the value of the code column is PSSM:    
+1.When the value of the code column is R:Running code: Rscript feature.R<br>     
+2.When the value of the code column is PSSM:     
 2.1Generate PSSM file:Run script: python ML/features/get_pssm.py    
 2.2Generate features:Run script: python ML/features/PSSM_feature.py    
 3When the value of the code column is model:    
