@@ -26,7 +26,7 @@ Table of Contents
 * [ 📈&nbsp; Predicted ](#Predicted)
 * [ ❤️&nbsp;Contact ](#Contact)
 
-<img src="./procedure.jpg"/>
+<img src="https://github.com/covhppilab/image/blob/main/image1.png"/>
 
 <a name="Environment"></a>
 ## ⌛️&nbsp; Software Environment
