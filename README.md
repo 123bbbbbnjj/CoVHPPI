@@ -179,6 +179,7 @@ Within our computational framework, each pair of proteins is provided as input i
         <td>32</td>
         <td>model</td>
     </tr>
+</table>  
 
 Note: 
 1.When the value of the code column is R:Running code: 
@@ -202,7 +203,7 @@ python ML/features/doc2vec.py
 python EMS2.py esm2_t36_3B_UR50D ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36 --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl     
  python ML/features/prottrans.py
 ```  
-</table>   
+
 
 
 
