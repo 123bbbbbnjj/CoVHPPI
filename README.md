@@ -145,44 +145,37 @@ Within our computational framework, each pair of proteins is provided as input i
         <td rowspan="4">Evolutionary information</td>
         <td>AAC-PSSM</td>
         <td>20</td>
-        <td>It represents the frequency of 20 standard amino acids in a protein sequence.</td>
         <td>R</td>
     </tr>
     <tr>
         <td>DPC-PSSM</td>
         <td>400</td>
-        <td>It represents the frequency of dipeptide composition of standard amino acids in a protein sequence.</td>
         <td>[41]</td>
     </tr>
     <tr>
         <td>RPSSM</td>
         <td>110</td>
-        <td>It represents the frequency of k-spaced dipeptide combinations in a protein sequence (k=0,1,2,3).</td>
         <td>[41]</td>
     </tr>
     <tr>
         <td>PSSM-AC</td>
         <td>1200</td>
-        <td>It represents the frequency of k-spaced dipeptide combinations in a protein sequence (k=0,1,2,3).</td>
         <td>[41]</td>
     </tr>
  <tr>
         <td rowspan="3">Protein embedding</td>
         <td>EsmMean</td>
         <td>2560</td>
-        <td>It represents the frequency of 20 standard amino acids in a protein sequence.</td>
         <td>R</td>
     </tr>
     <tr>
         <td>ProtTrans</td>
         <td>1024</td>
-        <td>It represents the frequency of dipeptide composition of standard amino acids in a protein sequence.</td>
         <td>R</td>
     </tr>
     <tr>
         <td>Doc2vec</td>
         <td>32</td>
-        <td>It represents the frequency of k-spaced dipeptide combinations in a protein sequence (k=0,1,2,3).</td>
         <td>[41]</td>
     </tr>
  
