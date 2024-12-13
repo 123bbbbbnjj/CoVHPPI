@@ -26,20 +26,14 @@ Table of Contents
 * [ 📈&nbsp; Predicted ](#Predicted)
 * [ ❤️&nbsp;Contact ](#Contact)
 
-
+<img src="./procedure.jpg"/>
 
 <a name="Environment"></a>
 ## ⌛️&nbsp; Software Environment
-
-- **Python**: 3.12.2
-- **Keras**: 3.1.1
-- **NumPy**: 1.26.4
-- **Pandas**: 2.2.1
-- **scikit-learn**: 1.4.1
-- **TensorFlow**: 2.16.1
-- **XGBoost**: 2.0.3
-- **zzd**: 1.0.5
-
+```
+conda env create -f environment.yaml
+conda activate cov
+```
 
 
 <a name="Model_download"></a>
