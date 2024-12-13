@@ -47,7 +47,7 @@ Table of Contents
 
 1. EsmMean (2560)
 Description: EsmMean encoding is the average length of ESM 2 in the protein output vector of the final layer. Note: The ESM 2 used here is the pre-trained model esm2_t36_3B_UR50D.
-Code Reference: [facebookresearch/esm](https://github.com/facebookresearch/esm/blob/main/scripts/extract.py )
+Model Code: [facebookresearch/esm](https://huggingface.co/facebook/esm2_t36_3B_UR50D )
 2. ProtTrans (1024)
 Description: ProtTrans uses UniRef and BFD (Big Fantastic Database) datasets as corpora and employs autoregressive and autoencoder models to generate protein representations. The pre-trained model used here is prot_t5-xx_half_unref50 enc. For each protein, the ProtT5 model is used to generate a final representation of L × 1024, where L is the length of the protein. In this work, ProtTrans encoding is the length-averaged vector of the output (L × 1024) from ProtT5.
 Code Reference: [agemagician/ProtTrans](https://github.com/agemagician/ProtTrans )
