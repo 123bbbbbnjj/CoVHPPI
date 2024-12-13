@@ -61,11 +61,11 @@ Code Reference: [Doc2vec](http://zzdlab.com/intersppi/hvppi/download/HVPPI.tar.g
 ### Dataset    
 - **Bulid C1C2C3**:
   ```
-  -  `python data/build_C1C2C3.py`
+  python data/build_C1C2C3.py
   ```
 - **Bulid Fold5**:
   ```
-  -  `python data/build_Fold5.py`
+  python data/build_Fold5.py
   ```
 <a name="Five"></a>
 ## ⌛️&nbsp; Five Computational-Based Methods for PPI Prediction    
