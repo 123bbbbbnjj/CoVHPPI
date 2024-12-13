@@ -182,27 +182,27 @@ Within our computational framework, each pair of proteins is provided as input i
 </table>  
 
 Note: 
-1.When the value of the code column is R:Running code: 
+1.When the value of the code column is R:
   ```
   Rscript feature.R 
   ```
 2.When the value of the code column is PSSM:<br>        
-2.1Generate PSSM file:Run script: 
+2.1Generate PSSM file:
    ```
    python ML/features/get_pssm.py
    ```     
-2.2Generate features:Run script: 
+2.2Generate features:
    ```
    python ML/features/PSSM_feature.py
    ```      
-3When the value of the code column is model:    <br>   
+3.When the value of the code column is model:    <br>   
 3.1Download model:<a href="#Model_download">Model_download</a>   <br>   
 3.2Generate features: <br> 
-```
-python ML/features/doc2vec.py     
-python EMS2.py esm2_t36_3B_UR50D ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36 --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl     
- python ML/features/prottrans.py
-```  
+   ```
+   python ML/features/doc2vec.py     
+   python EMS2.py esm2_t36_3B_UR50D ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36 --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl     
+   python ML/features/prottrans.py
+   ```  
 
 
 
