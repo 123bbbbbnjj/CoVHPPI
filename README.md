@@ -185,7 +185,7 @@ Note:
 2.1Generate PSSM file:Run script: python ML/features/get_pssm.py    
 2.2Generate features:Run script: python ML/features/PSSM_feature.py    
 3When the value of the code column is model:    
-3.1Download model:[Model_download](#Model_download)  <a href="#Model_download">跳转到模型下载部分</a> 
+3.1Download model:<a href="#Model_download">Model_download</a>   
 3.2Generate features:    
 Run script: python ML/features/doc2vec.py    
 Run script: python EMS2.py esm2_t36_3B_UR50D ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36     
