@@ -72,6 +72,7 @@ Code Reference: [Doc2vec](http://zzdlab.com/intersppi/hvppi/download/HVPPI.tar.g
 Within our computational framework, each pair of proteins is provided as input in the form of sequences or structures, and the predicted probability (Pr) of each method is output through five prevalent computational-based methods (ML, IM, DDI, DMI, and S). Finally, five different prediction probabilities were integrated adopting the Stacking strategy with Random Forest (RF) to derive the final interaction score.
 <a name="(ML)"></a>
 ## ⌛️&nbsp; Machine Learning Techniques (ML)
+- **Feature Extraction**:
 <table>
     <tr>
         <th>Groups</th>
@@ -181,37 +182,20 @@ Within our computational framework, each pair of proteins is provided as input i
 </table>
 Note: 
 1.When the value of the code column is R:Running code: Rscript feature.R<br>     
-2.When the value of the code column is PSSM:     
-2.1Generate PSSM file:Run script: python ML/features/get_pssm.py    
-2.2Generate features:Run script: python ML/features/PSSM_feature.py    
-3When the value of the code column is model:    
-3.1Download model:<a href="#Model_download">Model_download</a>   
-3.2Generate features:    
-Run script: python ML/features/doc2vec.py    
-Run script: python EMS2.py esm2_t36_3B_UR50D ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36     
-    --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl    
-Run script: python ML/features/prottrans.py    
+2.When the value of the code column is PSSM:<br>        
+2.1Generate PSSM file:Run script: python ML/features/get_pssm.py   <br>    
+2.2Generate features:Run script: python ML/features/PSSM_feature.py    <br>   
+3When the value of the code column is model:    <br>   
+3.1Download model:<a href="#Model_download">Model_download</a>   <br>   
+3.2Generate features: <br>      
+Run script: python ML/features/doc2vec.py  <br>     
+Run script: python EMS2.py esm2_t36_3B_UR50D ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36     <br>   
+    --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl <br>      
+Run script: python ML/features/prottrans.py    <br>   
    
 
-- **Feature Extraction**:
-  - Amino acid composition (AAC) and order:
-    ```    
-    python ML/features/CKSAAP.py
-    ```
-  - Evolutionary information:
-    ``` 
-    python ML/features/get_pssm.py
-    ```
-  - Protein embeddings:
-    ```
-    python ML/features/doc2vec.py
-    python EMS2.py  esm2_t36_3B_UR50D  ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36 --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl 
-    python ML/features/prottrans.py
-    ```
-  - other features
-    ```
-    Rscript feature.R
-    ```
+
+
 
 
 
