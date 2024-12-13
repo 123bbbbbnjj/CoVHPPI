@@ -178,16 +178,16 @@ Within our computational framework, each pair of proteins is provided as input i
         <td>32</td>
         <td>model</td>
     </tr>
-Note: When the value of the code column is R:Running code: Rscript feature.R    
-When the value of the code column is PSSM:    
-1.Generate PSSM file:Run script: python ML/features/get_pssm.py    
-2.Generate features:Run script: python ML/features/PSSM_feature.py    
-When the value of the code column is model:    
-1.Download model:Model_download(#Model_download)    
-2.Generate features:    
-Run script: python ML/features/doc2vec.py    
-Run script: python EMS2.py esm2_t36_3B_UR50D ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36 --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl    
-Run script: python ML/features/prottrans.py    
+Note: When the value of the code column is R:Running code: Rscript feature.R <br>   
+When the value of the code column is PSSM: <br>   
+1.Generate PSSM file:Run script: python ML/features/get_pssm.py <br>   
+2.Generate features:Run script: python ML/features/PSSM_feature.py <br>   
+When the value of the code column is model:  <br>  
+1.Download model:Model_download(#Model_download)  <br>  
+2.Generate features:  <br>  
+Run script: python ML/features/doc2vec.py  <br>  
+Run script: python EMS2.py esm2_t36_3B_UR50D ../../data/v_and_h.fasta tesm_out/ --include mean --repr_layers 36 --truncation_seq_length 4000 --save_file v_and_h_esm2.pkl <br>   
+Run script: python ML/features/prottrans.py    <br>
    
 </table>
 - **Feature Extraction**:
