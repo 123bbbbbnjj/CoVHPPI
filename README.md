@@ -60,10 +60,13 @@ Code Reference: [Doc2vec](http://zzdlab.com/intersppi/hvppi/download/HVPPI.tar.g
 
 ### Dataset    
 - **Bulid C1C2C3**:
+  ```
   -  `python data/build_C1C2C3.py`
+  ```
 - **Bulid Fold5**:
+  ```
   -  `python data/build_Fold5.py`
-
+  ```
 <a name="Five"></a>
 ## ⌛️&nbsp; Five Computational-Based Methods for PPI Prediction    
 Within our computational framework, each pair of proteins is provided as input in the form of sequences or structures, and the predicted probability (Pr) of each method is output through five prevalent computational-based methods (ML, IM, DDI, DMI, and S). Finally, five different prediction probabilities were integrated adopting the Stacking strategy with Random Forest (RF) to derive the final interaction score.
