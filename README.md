@@ -181,7 +181,7 @@ Within our computational framework, each pair of proteins is provided as input i
     </tr>
 </table>  
 
-Note: 
+NOTE:  <br> 
 1.When the value of the code column is R:
   ```
   Rscript feature.R 
