@@ -224,7 +224,7 @@ NOTE:  <br>
 ## 🧬&nbsp;  Interolog Mapping (IM)
 
 - The IM method is mainly based on the homology of protein sequences for inference .
-The quality of each PPI template was evaluated with the HIPPIE strategy , which assigns a confidence score to each PPI template (SIM). To further identify homology of query protein pairs between viruses and humans, BLAST was used to search for identifying their homologues (E-value≤10<sup>-5</sup>, sequence identity≥30%, and alignment coverage of query protein≥40%).
+The quality of each PPI template was evaluated with the HIPPIE strategy , which assigns a confidence score to each PPI template (SIM). To further identify homology of query protein pairs between viruses and humans, [BLAST](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/) was used to search for identifying their homologues (E-value≤10<sup>-5</sup>, sequence identity≥30%, and alignment coverage of query protein≥40%).
 
 - Obtain the training set of C1C2hC2vC3
   ```  
