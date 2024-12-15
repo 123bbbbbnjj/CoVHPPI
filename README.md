@@ -239,7 +239,7 @@ The quality of each PPI template was evaluated with the HIPPIE strategy , which 
 <a name="(DDI)"></a>
 ## 💥&nbsp;  Domain-Domain Interaction Methodology (DDI)
 
-- The DDI method forecasts how likely two proteins will interact by looking at known domain-domain interactions. It starts with a DDI template library made using a strategy similar to HVIDB, where each template gets a confidence score. For predicting coronavirus-human interactions, positive samples proteins are checked with Hmmscan for Pfam domains (E-value ≤ 10<sup>-5</sup>). Unique domain pairs for coronavirus and human proteins are identified. These pairs confidence scores are based on how often they occur, scaled to a 0-1 range. The final scores (SDDI) are the average confidence scores of these domain pairs.
+- The DDI method forecasts how likely two proteins will interact by looking at known domain-domain interactions. It starts with a DDI template library made using a strategy similar to HVIDB, where each template gets a confidence score. For predicting coronavirus-human interactions, positive samples proteins are checked with [Hmmscan](https://github.com/EddyRivasLab/hmmer) for Pfam domains (E-value ≤ 10<sup>-5</sup>). Unique domain pairs for coronavirus and human proteins are identified. These pairs confidence scores are based on how often they occur, scaled to a 0-1 range. The final scores (SDDI) are the average confidence scores of these domain pairs.
 
 - Obtain the training set of C1C2hC2vC3    
   ```
@@ -269,7 +269,7 @@ The quality of each PPI template was evaluated with the HIPPIE strategy , which 
 <a name="(S)"></a>
 ## ⚗️&nbsp; Structure-Based Approaches (S)
 
-- Compared to sequences, there is a lack of data for structures, although the relative conservatism of structures favors the prediction of PPIs. Similar to the IM method, the S method makes inferences based on the similarity of protein structures. The template dataset used here is the structural data corresponding to the template dataset in the IM method, and is also given the same confidence score (SS) as the IM method. The structural data was obtained from the PDB . Structural simulations were performed using AlphFold2 for proteins without structural annotations.. The relatively advanced US-align algorithm [60] was used to compare the protein structures between virus and virus as well as between virus and human, with TM-score≥0.5 as the judgment criterion for the structural similarity of two proteins.    
+- Compared to sequences, there is a lack of data for structures, although the relative conservatism of structures favors the prediction of PPIs. Similar to the IM method, the S method makes inferences based on the similarity of protein structures. The template dataset used here is the structural data corresponding to the template dataset in the IM method, and is also given the same confidence score (SS) as the IM method. The structural data was obtained from the [PDB](https://www.rcsb.org/) . Structural simulations were performed using [AlphaFold2](https://github.com/google-deepmind/alphafold) for proteins without structural annotations.. The relatively advanced [US-align algorithm](https://zhanggroup.org/US-align/) was used to compare the protein structures between virus and virus as well as between virus and human, with TM-score≥0.5 as the judgment criterion for the structural similarity of two proteins.    
 -Obtain the training set of C1C2hC2vC3
   ```
   python S/C1C2C3/VHPPI_C1C2C3/get_vhppi_c1c2c3.py
