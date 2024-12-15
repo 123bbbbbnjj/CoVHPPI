@@ -182,7 +182,7 @@ Within our computational framework, each pair of proteins is provided as input i
 </table>  
 
 NOTE:  <br> 
-1.When the value of the code column is R<sup>[[1]](https://github.com/nanxstats/protr)</sup>:
+1.When the value of the code column is [R](https://github.com/nanxstats/protr):
   ```
   Rscript feature.R 
   ```
