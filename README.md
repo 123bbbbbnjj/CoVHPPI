@@ -186,7 +186,7 @@ NOTE:  <br>
   ```
   Rscript feature.R 
   ```
-2.When the value of the code column is PSSM:<br>        
+2.When the value of the code column is [PSSM](http://possum.erc.monash.edu/):<br>        
 2.1Generate PSSM file:
    ```
    python ML/features/get_pssm.py
